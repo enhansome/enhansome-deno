@@ -15,6 +15,40 @@
       "items": [
         {
           "node_type": "item",
+          "title": "zuke",
+          "description": "Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T14:47:37Z",
+            "owner": "zuke-build",
+            "repo": "zuke",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swissknife",
+          "description": "SwissKnife - Deno Swiss Knife tools for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-23T21:54:18Z",
+            "owner": "fakoua",
+            "repo": "SwissKnife",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
           "title": "yargs",
           "description": "The modern, pirate-themed successor to optimist.",
           "children": [],
@@ -38,7 +72,7 @@
             "last_commit": "2026-06-16T06:06:45Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3122
+            "stars": 3124
           }
         },
         {
@@ -52,7 +86,7 @@
             "last_commit": "2026-08-10T21:40:26Z",
             "owner": "c4spar",
             "repo": "cliffy",
-            "stars": 1172
+            "stars": 1173
           }
         },
         {
@@ -226,7 +260,7 @@
             "last_commit": "2024-07-30T18:47:01Z",
             "owner": "Kirlovon",
             "repo": "aloedb",
-            "stars": 144
+            "stars": 143
           }
         },
         {
@@ -288,7 +322,7 @@
             "last_commit": "2026-08-02T18:07:12Z",
             "owner": "freshframework",
             "repo": "fresh",
-            "stars": 13788
+            "stars": 13789
           }
         },
         {
@@ -452,7 +486,7 @@
             "last_commit": "2026-08-10T21:51:27Z",
             "owner": "lumeland",
             "repo": "lume",
-            "stars": 2277
+            "stars": 2275
           }
         },
         {
@@ -483,7 +517,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:13:44Z",
+            "last_commit": "2026-08-14T18:10:01Z",
             "owner": "grammyjs",
             "repo": "grammY",
             "stars": 3719
@@ -497,7 +531,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:01:49Z",
+            "last_commit": "2026-08-14T16:49:11Z",
             "owner": "discordeno",
             "repo": "discordeno",
             "stars": 940
@@ -649,7 +683,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:02:10Z",
+            "last_commit": "2026-08-14T04:08:56Z",
             "owner": "izelnakri",
             "repo": "qunitx",
             "stars": 34
@@ -997,10 +1031,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:53:05Z",
+            "last_commit": "2026-08-15T00:19:23Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31656
+            "stars": 31665
           }
         },
         {
@@ -1370,7 +1404,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6630
+            "stars": 6631
           }
         },
         {
@@ -1409,10 +1443,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:37:53Z",
+            "last_commit": "2026-08-14T21:26:39Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
-            "stars": 15
+            "stars": 22
           }
         },
         {
@@ -1799,9 +1833,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:45:12.396Z",
+    "last_updated": "2026-08-15T00:26:41.961Z",
     "original_repository": "denolib/awesome-deno",
-    "original_repository_sha": "113671febce2ce0c6857e504f5c21b7ac48cfac8",
+    "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
     "enhanced_repository": "enhansome/enhansome-deno",
     "enhanced_repository_description": null,
     "title": "Awesome Deno with stars"
