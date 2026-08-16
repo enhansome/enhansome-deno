@@ -100,7 +100,7 @@
             "last_commit": "2024-11-19T16:42:07Z",
             "owner": "Im-Beast",
             "repo": "deno_tui",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2023-09-19T01:16:18Z",
             "owner": "xcatliu",
             "repo": "pagic",
-            "stars": 1656
+            "stars": 1657
           }
         }
       ],
@@ -517,10 +517,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:10:01Z",
+            "last_commit": "2026-08-15T18:45:15Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3719
+            "stars": 3718
           }
         },
         {
@@ -531,10 +531,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:49:11Z",
+            "last_commit": "2026-08-15T17:23:02Z",
             "owner": "discordeno",
             "repo": "discordeno",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -545,7 +545,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:25:15Z",
+            "last_commit": "2026-08-15T15:34:32Z",
             "owner": "MTKruto",
             "repo": "MTKruto",
             "stars": 171
@@ -686,7 +686,7 @@
             "last_commit": "2026-08-14T04:08:56Z",
             "owner": "izelnakri",
             "repo": "qunitx",
-            "stars": 34
+            "stars": 35
           }
         }
       ],
@@ -748,7 +748,7 @@
             "last_commit": "2025-10-01T21:27:55Z",
             "owner": "garronej",
             "repo": "evt",
-            "stars": 462
+            "stars": 461
           }
         },
         {
@@ -1031,10 +1031,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:19:23Z",
+            "last_commit": "2026-08-15T21:59:54Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31665
+            "stars": 31679
           }
         },
         {
@@ -1148,7 +1148,7 @@
             "last_commit": "2026-07-26T01:12:25Z",
             "owner": "Savory",
             "repo": "Danet",
-            "stars": 524
+            "stars": 526
           }
         },
         {
@@ -1443,10 +1443,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:26:39Z",
+            "last_commit": "2026-08-15T18:36:30Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
-            "stars": 22
+            "stars": 25
           }
         },
         {
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:26:41.961Z",
+    "last_updated": "2026-08-16T00:00:36.540Z",
     "original_repository": "denolib/awesome-deno",
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
     "enhanced_repository": "enhansome/enhansome-deno",
