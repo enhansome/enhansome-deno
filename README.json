@@ -58,7 +58,7 @@
             "last_commit": "2026-08-07T03:15:41Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11510
+            "stars": 11511
           }
         },
         {
@@ -83,7 +83,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T21:40:26Z",
+            "last_commit": "2026-08-16T22:15:31Z",
             "owner": "c4spar",
             "repo": "cliffy",
             "stars": 1173
@@ -322,7 +322,7 @@
             "last_commit": "2026-08-02T18:07:12Z",
             "owner": "freshframework",
             "repo": "fresh",
-            "stars": 13789
+            "stars": 13787
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-10T21:51:27Z",
             "owner": "lumeland",
             "repo": "lume",
-            "stars": 2275
+            "stars": 2276
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-15T18:45:15Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3718
+            "stars": 3719
           }
         },
         {
@@ -531,7 +531,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T17:23:02Z",
+            "last_commit": "2026-08-16T12:45:39Z",
             "owner": "discordeno",
             "repo": "discordeno",
             "stars": 941
@@ -1031,10 +1031,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:59:54Z",
+            "last_commit": "2026-08-16T23:39:16Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31679
+            "stars": 31688
           }
         },
         {
@@ -1144,8 +1144,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-26T01:12:25Z",
+            "language": "HTML",
+            "last_commit": "2026-08-16T14:12:24Z",
             "owner": "Savory",
             "repo": "Danet",
             "stars": 526
@@ -1443,10 +1443,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:36:30Z",
+            "last_commit": "2026-08-16T23:47:59Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
-            "stars": 25
+            "stars": 29
           }
         },
         {
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T00:00:36.540Z",
+    "last_updated": "2026-08-17T00:00:42.003Z",
     "original_repository": "denolib/awesome-deno",
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
     "enhanced_repository": "enhansome/enhansome-deno",
