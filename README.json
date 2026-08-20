@@ -516,7 +516,7 @@
                 "last_commit": "2026-08-10T21:51:27Z",
                 "owner": "lumeland",
                 "repo": "lume",
-                "stars": 2274
+                "stars": 2275
               }
             },
             {
@@ -766,7 +766,7 @@
                 "archived": false,
                 "id": 84318409,
                 "language": "JavaScript",
-                "last_commit": "2026-04-09T17:16:54Z",
+                "last_commit": "2026-08-19T15:11:45Z",
                 "owner": "icebob",
                 "repo": "fastest-validator",
                 "stars": 1463
@@ -1103,10 +1103,10 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:34:43Z",
+                "last_commit": "2026-08-19T23:48:31Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31725
+                "stars": 31735
               }
             },
             {
@@ -1508,7 +1508,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6637
+            "stars": 6636
           }
         },
         {
@@ -1550,7 +1550,7 @@
             "archived": false,
             "id": 1138782336,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:19:52Z",
+            "last_commit": "2026-08-19T22:28:34Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 31
@@ -1949,7 +1949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:32.663Z",
+    "last_updated": "2026-08-20T00:02:30.492Z",
     "original_repository": "denolib/awesome-deno",
     "original_repository_id": 163803160,
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
