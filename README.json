@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-02T18:07:12Z",
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13785
+                "stars": 13786
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2025-06-14T19:16:32Z",
                 "owner": "matmen",
                 "repo": "ImageScript",
-                "stars": 674
+                "stars": 675
               }
             },
             {
@@ -550,7 +550,7 @@
                 "archived": false,
                 "id": 351928388,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T08:33:18Z",
+                "last_commit": "2026-08-23T20:25:26Z",
                 "owner": "grammyjs",
                 "repo": "grammY",
                 "stars": 3720
@@ -565,7 +565,7 @@
                 "archived": false,
                 "id": 238842359,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T12:25:22Z",
+                "last_commit": "2026-08-23T12:44:13Z",
                 "owner": "discordeno",
                 "repo": "discordeno",
                 "stars": 941
@@ -754,7 +754,7 @@
                 "last_commit": "2026-08-08T21:52:16Z",
                 "owner": "Hexagon",
                 "repo": "croner",
-                "stars": 2584
+                "stars": 2585
               }
             },
             {
@@ -1103,10 +1103,10 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T23:06:33Z",
+                "last_commit": "2026-08-23T07:34:05Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31782
+                "stars": 31878
               }
             },
             {
@@ -1164,7 +1164,7 @@
                 "archived": false,
                 "id": 171999885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T19:55:00Z",
+                "last_commit": "2026-08-23T14:00:57Z",
                 "owner": "drashland",
                 "repo": "drash",
                 "stars": 1067
@@ -1508,7 +1508,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6636
+            "stars": 6637
           }
         },
         {
@@ -1550,7 +1550,7 @@
             "archived": false,
             "id": 1138782336,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:16:33Z",
+            "last_commit": "2026-08-23T23:55:26Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 31
@@ -1604,7 +1604,7 @@
             "last_commit": "2026-08-03T18:32:34Z",
             "owner": "denoland",
             "repo": "dnt",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -1949,7 +1949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T00:01:18.689Z",
+    "last_updated": "2026-08-24T00:00:53.486Z",
     "original_repository": "denolib/awesome-deno",
     "original_repository_id": 163803160,
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
