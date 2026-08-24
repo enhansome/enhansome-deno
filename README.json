@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-07T03:15:41Z",
                 "owner": "yargs",
                 "repo": "yargs",
-                "stars": 11514
+                "stars": 11515
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-16T22:15:31Z",
                 "owner": "c4spar",
                 "repo": "cliffy",
-                "stars": 1174
+                "stars": 1175
               }
             },
             {
@@ -328,6 +328,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Denops",
+              "description": "🐜 An ecosystem to write Vim/Neovim plugins with Deno.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337125481,
+                "language": "TypeScript",
+                "last_commit": "2026-07-02T01:58:35Z",
+                "owner": "vim-denops",
+                "repo": "denops.vim",
+                "stars": 789
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor framework"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "fresh",
               "description": "The next-gen web framework.",
               "children": [],
@@ -338,7 +360,7 @@
                 "last_commit": "2026-08-02T18:07:12Z",
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13786
+                "stars": 13787
               }
             },
             {
@@ -454,6 +476,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LogTape",
+              "description": "Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 787362890,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T15:15:55Z",
+                "owner": "dahlia",
+                "repo": "logtape",
+                "stars": 1972
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "netsaur",
               "description": "Powerful machine learning, accelerated by WebGPU",
               "children": [],
@@ -506,6 +550,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "deno-smtp",
+              "description": "A smtp mail sender for deno.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194101836,
+                "language": "TypeScript",
+                "last_commit": "2024-05-29T23:51:11Z",
+                "owner": "manyuanrong",
+                "repo": "deno-smtp",
+                "stars": 83
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mail"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LiteMarkup",
+              "description": "AST-first parser. Under 3 KB gzipped, zero dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195475145,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T07:16:47Z",
+                "owner": "tuures",
+                "repo": "LiteMarkup",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "neo",
+              "description": "Matrix and other math, accelerated by WebGPU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440525305,
+                "language": "TypeScript",
+                "last_commit": "2023-08-02T09:07:32Z",
+                "owner": "denosaurs",
+                "repo": "neo",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Math"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "lume",
               "description": "A static site generator similar to Jekyll or Eleventy with support for multiple file formats.",
               "children": [],
@@ -543,6 +653,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "written",
+              "description": "A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484198387,
+                "language": "TypeScript",
+                "last_commit": "2024-09-04T17:24:59Z",
+                "owner": "vixalien",
+                "repo": "written",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "String utils"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "grammY",
               "description": "Telegram Bot API framework for Deno.",
               "children": [],
@@ -565,7 +697,7 @@
                 "archived": false,
                 "id": 238842359,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T12:44:13Z",
+                "last_commit": "2026-08-24T08:32:22Z",
                 "owner": "discordeno",
                 "repo": "discordeno",
                 "stars": 941
@@ -916,7 +1048,7 @@
                 "archived": false,
                 "id": 1028829693,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T21:45:38Z",
+                "last_commit": "2026-08-24T03:32:56Z",
                 "owner": "materwelonDhruv",
                 "repo": "envapt",
                 "stars": 22
@@ -1096,6 +1228,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "zod",
+              "description": "TypeScript-first schema validation with static type inference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245704608,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T16:45:34Z",
+                "owner": "colinhacks",
+                "repo": "zod",
+                "stars": 43519
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Validation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "hono",
               "description": "Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.",
               "children": [],
@@ -1103,10 +1257,10 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:34:05Z",
+                "last_commit": "2026-08-24T08:44:48Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31878
+                "stars": 31919
               }
             },
             {
@@ -1489,6 +1643,50 @@
           "description": null,
           "node_type": "group",
           "title": "Web utils"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "webview",
+              "description": "Deno bindings for webview, a tiny library for creating web-based desktop GUIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245254578,
+                "language": "TypeScript",
+                "last_commit": "2025-02-25T09:19:36Z",
+                "owner": "webview",
+                "repo": "webview_deno",
+                "stars": 1592
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Webview"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sax-ts",
+              "description": "SAX-style XML parser ported from sax-js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169980607,
+                "language": "JavaScript",
+                "last_commit": "2024-03-17T05:56:44Z",
+                "owner": "Maxim-Mazurok",
+                "repo": "sax-ts",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XML"
         }
       ],
       "title": "Modules"
@@ -1550,7 +1748,7 @@
             "archived": false,
             "id": 1138782336,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T23:55:26Z",
+            "last_commit": "2026-08-24T13:35:55Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 31
@@ -1949,7 +2147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:00:53.486Z",
+    "last_updated": "2026-08-24T13:55:45.114Z",
     "original_repository": "denolib/awesome-deno",
     "original_repository_id": 163803160,
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
