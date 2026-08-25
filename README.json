@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 954234959,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T19:29:45Z",
+                "last_commit": "2026-08-24T17:47:07Z",
                 "owner": "AhmedOsman101",
                 "repo": "commit-sage-cli",
-                "stars": 51
+                "stars": 52
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-08-02T18:07:12Z",
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13787
+                "stars": 13788
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-21T15:15:55Z",
                 "owner": "dahlia",
                 "repo": "logtape",
-                "stars": 1972
+                "stars": 1974
               }
             }
           ],
@@ -623,7 +623,7 @@
                 "archived": false,
                 "id": 293613333,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T12:43:49Z",
+                "last_commit": "2026-08-24T22:34:13Z",
                 "owner": "lumeland",
                 "repo": "lume",
                 "stars": 2276
@@ -682,7 +682,7 @@
                 "archived": false,
                 "id": 351928388,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T20:25:26Z",
+                "last_commit": "2026-08-24T16:18:42Z",
                 "owner": "grammyjs",
                 "repo": "grammY",
                 "stars": 3720
@@ -712,7 +712,7 @@
                 "archived": false,
                 "id": 622257063,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T15:34:32Z",
+                "last_commit": "2026-08-24T18:57:22Z",
                 "owner": "MTKruto",
                 "repo": "MTKruto",
                 "stars": 171
@@ -883,7 +883,7 @@
                 "archived": false,
                 "id": 47717814,
                 "language": "TypeScript",
-                "last_commit": "2026-08-08T21:52:16Z",
+                "last_commit": "2026-08-24T23:53:45Z",
                 "owner": "Hexagon",
                 "repo": "croner",
                 "stars": 2585
@@ -1235,10 +1235,10 @@
                 "archived": false,
                 "id": 245704608,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:45:34Z",
+                "last_commit": "2026-08-25T00:01:44Z",
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 43519
+                "stars": 43520
               }
             }
           ],
@@ -1260,7 +1260,7 @@
                 "last_commit": "2026-08-24T08:44:48Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31919
+                "stars": 31945
               }
             },
             {
@@ -1318,7 +1318,7 @@
                 "archived": false,
                 "id": 171999885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:00:57Z",
+                "last_commit": "2026-08-24T20:40:46Z",
                 "owner": "drashland",
                 "repo": "drash",
                 "stars": 1067
@@ -1748,7 +1748,7 @@
             "archived": false,
             "id": 1138782336,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:35:55Z",
+            "last_commit": "2026-08-24T23:26:31Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 31
@@ -1952,7 +1952,7 @@
             "last_commit": "2026-06-28T17:13:17Z",
             "owner": "jersou",
             "repo": "studio-pack-generator",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -2147,7 +2147,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:45.114Z",
+    "last_updated": "2026-08-25T00:02:22.902Z",
     "original_repository": "denolib/awesome-deno",
     "original_repository_id": 163803160,
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
