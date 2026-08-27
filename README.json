@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 1257097658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:15:23Z",
+                "last_commit": "2026-08-27T08:27:32Z",
                 "owner": "zuke-build",
                 "repo": "zuke",
                 "stars": 31
@@ -69,7 +69,7 @@
                 "last_commit": "2026-06-16T06:06:45Z",
                 "owner": "cacjs",
                 "repo": "cac",
-                "stars": 3124
+                "stars": 3125
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-25T20:15:57Z",
                 "owner": "AhmedOsman101",
                 "repo": "commit-sage-cli",
-                "stars": 53
+                "stars": 54
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-21T15:15:55Z",
                 "owner": "dahlia",
                 "repo": "logtape",
-                "stars": 1976
+                "stars": 1977
               }
             }
           ],
@@ -737,7 +737,7 @@
                 "last_commit": "2026-04-25T18:35:44Z",
                 "owner": "bgub",
                 "repo": "eta",
-                "stars": 1755
+                "stars": 1756
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2026-08-20T21:39:10Z",
                 "owner": "icebob",
                 "repo": "fastest-validator",
-                "stars": 1463
+                "stars": 1464
               }
             },
             {
@@ -1235,10 +1235,10 @@
                 "archived": false,
                 "id": 245704608,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:00:29Z",
+                "last_commit": "2026-08-27T09:21:33Z",
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 43535
+                "stars": 43538
               }
             }
           ],
@@ -1260,7 +1260,7 @@
                 "last_commit": "2026-08-27T00:20:10Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31979
+                "stars": 31983
               }
             },
             {
@@ -1318,7 +1318,7 @@
                 "archived": false,
                 "id": 171999885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T03:09:14Z",
+                "last_commit": "2026-08-27T11:32:42Z",
                 "owner": "drashland",
                 "repo": "drash",
                 "stars": 1067
@@ -1748,7 +1748,7 @@
             "archived": false,
             "id": 1138782336,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:55:39Z",
+            "last_commit": "2026-08-27T11:28:09Z",
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 31
@@ -2147,9 +2147,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:18.104Z",
-    "original_repository": "denolib/awesome-deno",
-    "original_repository_id": 163803160,
+    "last_updated": "2026-08-27T11:33:02.348Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 163803160,
+      "language": null,
+      "last_commit": "2026-08-14T00:57:28Z",
+      "owner": "denolib",
+      "repo": "awesome-deno",
+      "stars": 4407
+    },
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
     "enhanced_repository": "enhansome/enhansome-deno",
     "enhanced_repository_description": null,
