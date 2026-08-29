@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥷 A code-first, strongly-typed build automation system for Deno.",
+                "homepage": "https://zuke.build",
                 "id": 1257097658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:27:32Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:00:20Z",
+                "open_issues": 3,
                 "owner": "zuke-build",
                 "repo": "zuke",
-                "stars": 32
+                "stars": 33,
+                "topics": [
+                  "agent-skills",
+                  "build-automation",
+                  "build-system",
+                  "build-tool",
+                  "build-tools",
+                  "ci-cd",
+                  "code-first",
+                  "deno",
+                  "devops",
+                  "fluent-api",
+                  "gemini-cli-extension",
+                  "jsr",
+                  "type-safe",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -28,12 +48,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno Swiss Knife tools",
+                "homepage": null,
                 "id": 234409067,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-23T21:54:18Z",
+                "open_issues": 1,
                 "owner": "fakoua",
                 "repo": "SwissKnife",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "deno",
+                  "dialog",
+                  "monitor",
+                  "notification",
+                  "screen",
+                  "screencapture",
+                  "screenshot",
+                  "systray",
+                  "texttospeech",
+                  "typescript",
+                  "volume",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -51,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " yargs the modern, pirate-themed successor to optimist.",
+                "homepage": "https://yargs.js.org/",
                 "id": 14210523,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T03:15:41Z",
+                "open_issues": 208,
                 "owner": "yargs",
                 "repo": "yargs",
-                "stars": 11515
+                "stars": 11514,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -67,12 +110,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet powerful framework for building command-line apps.",
+                "homepage": null,
                 "id": 49640289,
                 "language": "TypeScript",
-                "last_commit": "2026-06-16T06:06:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:59:56Z",
+                "open_issues": 35,
                 "owner": "cacjs",
                 "repo": "cac",
-                "stars": 3126
+                "stars": 3127,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "commander",
+                  "deno",
+                  "framework",
+                  "minimist",
+                  "node"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -83,12 +139,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TypeScript-first, runtime-agnostic command-line toolkit for building complex   CLIs — featuring a command framework, argument parser, interactive prompts,   tables, ANSI utilities, and more.",
+                "homepage": "https://cliffy.io",
                 "id": 246158784,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T22:15:31Z",
+                "open_issues": 33,
                 "owner": "c4spar",
                 "repo": "cliffy",
-                "stars": 1175
+                "stars": 1175,
+                "topics": [
+                  "ansi-escape",
+                  "argument-parser",
+                  "cli",
+                  "cli-cursor",
+                  "cli-framework",
+                  "cli-table",
+                  "command-line",
+                  "deno",
+                  "prompt",
+                  "prompts",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -99,12 +172,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦕 Deno module for creating Terminal User Interfaces",
+                "homepage": "https://deno.land/x/tui",
                 "id": 395967665,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-19T16:42:07Z",
+                "open_issues": 5,
                 "owner": "Im-Beast",
                 "repo": "deno_tui",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "console",
+                  "deno",
+                  "deno-module",
+                  "terminal",
+                  "terminal-user-interface",
+                  "text-user-interface",
+                  "ts",
+                  "tui",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -115,12 +203,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, extendable markdown renderer for your terminal.",
+                "homepage": null,
                 "id": 325817855,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-08-04T21:02:12Z",
+                "open_issues": 1,
                 "owner": "littletof",
                 "repo": "charmd",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "ast",
+                  "cli",
+                  "deno",
+                  "deno-cli",
+                  "markdown",
+                  "markdown-viewer",
+                  "terminal",
+                  "terminal-markdown"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -131,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome deno terminal spinners :art:",
+                "homepage": null,
                 "id": 168942053,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-18T18:09:26Z",
+                "open_issues": 2,
                 "owner": "ameerthehacker",
                 "repo": "deno-cli-spinners",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -147,12 +254,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.",
+                "homepage": null,
                 "id": 954234959,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T20:15:57Z",
+                "open_issues": 5,
                 "owner": "AhmedOsman101",
                 "repo": "commit-sage-cli",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "ai",
+                  "autocommit",
+                  "cli",
+                  "commit-message",
+                  "commits",
+                  "deno",
+                  "gemini",
+                  "git",
+                  "llm",
+                  "ollama",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -163,12 +287,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "clinfer (short for CLI inference) automatically generates CLIs from standard JS objects, classes or ES modules. Each method generates a \"command\", and each field an \"option\". The help is produced automatically.",
+                "homepage": "https://jersou.github.io/clinfer/",
                 "id": 746533848,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:11:51Z",
+                "open_issues": 0,
                 "owner": "jersou",
                 "repo": "clinfer",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "args",
+                  "argument-parser",
+                  "cli",
+                  "command-line-tool",
+                  "object",
+                  "option",
+                  "parser",
+                  "parsing"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -186,12 +324,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno",
+                "homepage": "https://eveningkid.com/denodb-docs",
                 "id": 264673536,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-28T10:30:08Z",
+                "open_issues": 105,
                 "owner": "eveningkid",
                 "repo": "denodb",
-                "stars": 1919
+                "stars": 1919,
+                "topics": [
+                  "database",
+                  "deno",
+                  "mariadb",
+                  "mongo",
+                  "mongodb",
+                  "mysql",
+                  "orm",
+                  "postgresql",
+                  "sqlite",
+                  "sqlite3"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -202,12 +356,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PostgreSQL driver for Deno",
+                "homepage": "https://denodrivers.github.io/postgres",
                 "id": 164329087,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-24T10:41:41Z",
+                "open_issues": 38,
                 "owner": "denodrivers",
                 "repo": "postgres",
-                "stars": 656
+                "stars": 656,
+                "topics": [
+                  "deno",
+                  "deno-postgres",
+                  "denoland",
+                  "postgres",
+                  "postgresql",
+                  "postgresql-driver"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -218,12 +384,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations",
+                "homepage": null,
                 "id": 255932763,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-10T07:30:49Z",
+                "open_issues": 8,
                 "owner": "halvardssm",
                 "repo": "deno-nessie",
-                "stars": 519
+                "stars": 519,
+                "topics": [
+                  "deno",
+                  "deno-mysql",
+                  "deno-postgres",
+                  "deno-sqlite",
+                  "denoland",
+                  "hacktoberfest",
+                  "mysql",
+                  "postgres",
+                  "postgresql",
+                  "sqlite3",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -234,12 +417,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍃 MongoDB driver for Deno 🦕",
+                "homepage": "https://deno.land/x/mongo",
                 "id": 190690177,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-14T07:07:36Z",
+                "open_issues": 48,
                 "owner": "denodrivers",
                 "repo": "mongo",
-                "stars": 511
+                "stars": 511,
+                "topics": [
+                  "database",
+                  "deno",
+                  "deno-deploy",
+                  "driver",
+                  "mongodb",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -250,12 +445,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦕 Redis client for Deno 🍕",
+                "homepage": "https://jsr.io/@db/redis",
                 "id": 163508735,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T11:57:27Z",
+                "open_issues": 42,
                 "owner": "denodrivers",
                 "repo": "redis",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "deno",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -266,12 +469,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " MySQL driver for Deno",
+                "homepage": "https://deno-mysql.netlify.com/",
                 "id": 172351720,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-26T15:25:44Z",
+                "open_issues": 23,
                 "owner": "denodrivers",
                 "repo": "mysql",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "database",
+                  "deno",
+                  "deno-mysql",
+                  "mariadb"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -282,12 +495,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light, Embeddable, NoSQL database for Deno 🦕",
+                "homepage": "https://deno.land/x/aloedb",
                 "id": 277340002,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-30T18:47:01Z",
+                "open_issues": 4,
                 "owner": "Kirlovon",
                 "repo": "aloedb",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "data",
+                  "database",
+                  "datastore",
+                  "db",
+                  "deno",
+                  "embeddable",
+                  "embedded",
+                  "embedded-database",
+                  "javascript",
+                  "json",
+                  "light",
+                  "nosql",
+                  "nosql-database",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -298,12 +531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dongoose is a simple ( but intelligent ), lightweight, and easy to use ORM for Deno KV. It is written in Typescript and is inspired by Mongoose.",
+                "homepage": null,
                 "id": 661201056,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-10T22:18:49Z",
+                "open_issues": 2,
                 "owner": "roonie007",
                 "repo": "dongoose",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -314,12 +552,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library that enables the usage of MaxmindDB geoIP databases by using the Rust library in a WASM module",
+                "homepage": null,
                 "id": 346428096,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T20:44:30Z",
+                "open_issues": 9,
                 "owner": "josh-hemphill",
                 "repo": "maxminddb-wasm",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "deno",
+                  "geoip",
+                  "maxmind",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -330,12 +578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal MongoDB for Deno",
+                "homepage": null,
                 "id": 379362284,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-07-08T09:51:13Z",
+                "open_issues": 0,
                 "owner": "yooneskh",
                 "repo": "yongo",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -353,12 +606,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno",
+                "homepage": "https://vim-denops.github.io/denops-documentation/",
                 "id": 337125481,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-02T01:58:35Z",
+                "open_issues": 9,
                 "owner": "vim-denops",
                 "repo": "denops.vim",
-                "stars": 789
+                "stars": 789,
+                "topics": [
+                  "cross-platform",
+                  "deno",
+                  "neovim",
+                  "vim",
+                  "vim-denops"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -376,12 +640,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The framework so simple, you already know it.",
+                "homepage": "https://usefresh.dev",
                 "id": 365263843,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T18:07:12Z",
+                "open_issues": 149,
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13788
+                "stars": 13789,
+                "topics": [
+                  "deno",
+                  "denofresh",
+                  "fresh",
+                  "javascript",
+                  "preact",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -392,12 +668,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-Legacy Deno/React Suspense SSR Framework",
+                "homepage": "https://ultrajs.dev",
                 "id": 381427046,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-28T09:07:24Z",
+                "open_issues": 28,
                 "owner": "exhibitionist-digital",
                 "repo": "ultra",
-                "stars": 2947
+                "stars": 2947,
+                "topics": [
+                  "0-legacy",
+                  "deno",
+                  "esm",
+                  "no-bundle",
+                  "react",
+                  "ssr",
+                  "streaming",
+                  "suspense",
+                  "typescript",
+                  "zero-legacy"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -408,12 +700,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 Zero-config web application packager for Deno",
+                "homepage": "https://packup.deno.dev/",
                 "id": 364292882,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-02T10:48:35Z",
+                "open_issues": 12,
                 "owner": "kt3k",
                 "repo": "packup",
-                "stars": 337
+                "stars": 337,
+                "topics": [
+                  "deno",
+                  "esbuild",
+                  "frontend",
+                  "packup",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -431,12 +734,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDL2 module for Deno",
+                "homepage": "https://jsr.io/@divy/sdl2",
                 "id": 391610017,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-18T15:22:10Z",
+                "open_issues": 15,
                 "owner": "littledivy",
                 "repo": "deno_sdl2",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "canvas",
+                  "deno",
+                  "gfx",
+                  "gui",
+                  "sdl2",
+                  "typescript",
+                  "webgpu"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -447,12 +763,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser",
+                "homepage": "https://caviarengine.netlify.app/",
                 "id": 433891569,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-03T23:39:47Z",
+                "open_issues": 4,
                 "owner": "load1n9",
                 "repo": "caviar",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "collaborate",
+                  "deno",
+                  "game-development",
+                  "game-engine",
+                  "gpu",
+                  "gui",
+                  "typescript",
+                  "webgpu",
+                  "wgpu"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -470,12 +801,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zero-dependency JavaScript image manipulation",
+                "homepage": "https://www.npmjs.com/package/imagescript",
                 "id": 312919660,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-14T19:16:32Z",
+                "open_issues": 21,
                 "owner": "matmen",
                 "repo": "ImageScript",
-                "stars": 676
+                "stars": 676,
+                "topics": [
+                  "deno",
+                  "gif",
+                  "hacktoberfest",
+                  "image",
+                  "image-manipulation",
+                  "image-processing",
+                  "images",
+                  "javascript",
+                  "jpeg",
+                  "jpg",
+                  "nodejs",
+                  "picture",
+                  "png"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -486,12 +836,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color quantization and dithering in TypeScript.",
+                "homepage": null,
                 "id": 563869642,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-29T06:28:24Z",
+                "open_issues": 0,
                 "owner": "retraigo",
                 "repo": "monke",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "color",
+                  "deno",
+                  "javascript",
+                  "quantization",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -509,12 +870,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions",
+                "homepage": "http://logtape.org/",
                 "id": 787362890,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:15:55Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:33:14Z",
+                "open_issues": 9,
                 "owner": "dahlia",
                 "repo": "logtape",
-                "stars": 1977
+                "stars": 1978,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "javascript",
+                  "log",
+                  "logging",
+                  "nodejs",
+                  "structured-logging",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -532,12 +907,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful Powerful Machine Learning library with GPU, CPU and WASM backends",
+                "homepage": "https://netsaur.deno.dev/",
                 "id": 372567011,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-10-02T17:09:04Z",
+                "open_issues": 7,
                 "owner": "denosaurs",
                 "repo": "netsaur",
-                "stars": 254
+                "stars": 254,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deno",
+                  "edge-computing",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "rust",
+                  "safetensors",
+                  "serverless",
+                  "typescript",
+                  "wasm",
+                  "webassembly",
+                  "webgpu"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -548,12 +948,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine Learning utilities for TypeScript",
+                "homepage": null,
                 "id": 643117661,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-05T15:05:00Z",
+                "open_issues": 0,
                 "owner": "retraigo",
                 "repo": "appraisal",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "encoding",
+                  "machine-learning",
+                  "nlp",
+                  "tf-idf",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -564,12 +975,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine Learning Module for Single Layer Perceptron ML models, written in Rust for Typescript.",
+                "homepage": null,
                 "id": 644236184,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-04-01T06:10:58Z",
+                "open_issues": 2,
                 "owner": "retraigo",
                 "repo": "la-classy",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "classification",
+                  "deno",
+                  "machine-learning",
+                  "regression",
+                  "rust",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -587,12 +1010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMTP implements for deno",
+                "homepage": null,
                 "id": 194101836,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-29T23:51:11Z",
+                "open_issues": 18,
                 "owner": "manyuanrong",
                 "repo": "deno-smtp",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -610,12 +1038,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny Markdown parser with a typed, AST-first TypeScript API. Under 3 KB gzipped, zero dependencies.",
+                "homepage": "https://tuures.github.io/LiteMarkup/docs/demopage.html",
                 "id": 195475145,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T07:16:47Z",
+                "open_issues": 1,
                 "owner": "tuures",
                 "repo": "LiteMarkup",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ast",
+                  "lightweight",
+                  "markdown",
+                  "markup-language",
+                  "parser",
+                  "typescript-library"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -633,12 +1073,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍💻 Matrix and other math, accelerated by WebGPU and WASM",
+                "homepage": "https://deno.land/x/neo",
                 "id": 440525305,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-02T09:07:32Z",
+                "open_issues": 15,
                 "owner": "denosaurs",
                 "repo": "neo",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "deno",
+                  "fast-fourier-transform",
+                  "fft",
+                  "gpgpu",
+                  "gpu",
+                  "hacktoberfest",
+                  "javascript",
+                  "linear-algebra",
+                  "machine-learning",
+                  "matrix",
+                  "ndarray",
+                  "neural-network",
+                  "wasm",
+                  "webassembly",
+                  "webgpu",
+                  "wgsl"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -656,12 +1118,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🪰 Static site generator for Deno",
+                "homepage": "https://lume.land",
                 "id": 293613333,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T21:02:36Z",
+                "open_issues": 44,
                 "owner": "lumeland",
                 "repo": "lume",
-                "stars": 2277
+                "stars": 2277,
+                "topics": [
+                  "deno",
+                  "eta",
+                  "jsx",
+                  "liquid",
+                  "lume",
+                  "markdown",
+                  "nunjucks",
+                  "postcss",
+                  "react",
+                  "static-site-generator",
+                  "svgo",
+                  "typescript",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -672,12 +1153,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static site generator powered by Deno + React",
+                "homepage": "https://pagic.org",
                 "id": 83543333,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-19T01:16:18Z",
+                "open_issues": 12,
                 "owner": "xcatliu",
                 "repo": "pagic",
-                "stars": 1657
+                "stars": 1657,
+                "topics": [
+                  "deno",
+                  "markdown",
+                  "pagic",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -695,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.",
+                "homepage": null,
                 "id": 484198387,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-04T17:24:59Z",
+                "open_issues": 0,
                 "owner": "vixalien",
                 "repo": "written",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -718,12 +1214,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Telegram Bot Framework.",
+                "homepage": "https://grammy.dev",
                 "id": 351928388,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:29:41Z",
+                "open_issues": 22,
                 "owner": "grammyjs",
                 "repo": "grammY",
-                "stars": 3725
+                "stars": 3725,
+                "topics": [
+                  "bot",
+                  "deno",
+                  "javascript",
+                  "nodejs",
+                  "telegram",
+                  "telegram-bot",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -734,12 +1243,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord API library for Node and Deno",
+                "homepage": "https://discordeno.js.org",
                 "id": 238842359,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:32:22Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T14:38:52Z",
+                "open_issues": 96,
                 "owner": "discordeno",
                 "repo": "discordeno",
-                "stars": 941
+                "stars": 942,
+                "topics": [
+                  "api",
+                  "bot",
+                  "deno",
+                  "discord",
+                  "discord-api",
+                  "discord-bot",
+                  "discordeno",
+                  "hacktoberfest",
+                  "javascript",
+                  "library",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -750,12 +1277,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-runtime JavaScript library for building Telegram clients",
+                "homepage": "https://mtkru.to",
                 "id": 622257063,
                 "language": "TypeScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-25T23:37:55Z",
+                "open_issues": 1,
                 "owner": "MTKruto",
                 "repo": "MTKruto",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "mtproto",
+                  "nodejs",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -773,12 +1311,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript",
+                "homepage": "https://eta.js.org",
                 "id": 250142018,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-25T18:35:44Z",
+                "open_issues": 8,
                 "owner": "bgub",
                 "repo": "eta",
-                "stars": 1756
+                "stars": 1756,
+                "topics": [
+                  "deno",
+                  "deno-module",
+                  "ejs-alternative",
+                  "expressjs-templating-engine",
+                  "javascript",
+                  "nodejs",
+                  "template-engine",
+                  "template-engine-html",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -789,12 +1342,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ejs template engine for deno.",
+                "homepage": null,
                 "id": 163327891,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-30T01:25:31Z",
+                "open_issues": 4,
                 "owner": "syumai",
                 "repo": "dejs",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "deno",
+                  "ejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -805,12 +1367,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handlebars template engine for Deno",
+                "homepage": null,
                 "id": 260792917,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-17T15:56:47Z",
+                "open_issues": 4,
                 "owner": "alosaur",
                 "repo": "handlebars",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "deno",
+                  "handlebars",
+                  "html"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -828,12 +1399,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of puppeteer running on Deno",
+                "homepage": "https://deno.land/x/puppeteer",
                 "id": 325334850,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-01T06:57:02Z",
+                "open_issues": 43,
                 "owner": "lucacasonato",
                 "repo": "deno-puppeteer",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "automation",
+                  "deno",
+                  "headless-chrome",
+                  "puppeteer",
+                  "testing",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -844,12 +1427,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unexpected - the extensible BDD assertion toolkit",
+                "homepage": "http://unexpected.js.org/",
                 "id": 9507628,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T13:55:09Z",
+                "open_issues": 51,
                 "owner": "unexpectedjs",
                 "repo": "unexpected",
-                "stars": 368
+                "stars": 368,
+                "topics": [
+                  "assertions",
+                  "javascript",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -860,12 +1452,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super-agent driven library for testing Deno HTTP servers.",
+                "homepage": "https://cmorten.github.io/superdeno/",
                 "id": 267800663,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T20:29:58Z",
+                "open_issues": 1,
                 "owner": "cmorten",
                 "repo": "superdeno",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "assertions",
+                  "deno",
+                  "deno-doc",
+                  "http-testing",
+                  "oak",
+                  "opine",
+                  "superagent",
+                  "superdeno",
+                  "supertest",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -876,12 +1485,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP assertions for Oak made easy via SuperDeno. 🐿 🦕",
+                "homepage": "https://cmorten.github.io/superoak/",
                 "id": 268245288,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T17:44:45Z",
+                "open_issues": 2,
                 "owner": "cmorten",
                 "repo": "superoak",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "assertions",
+                  "deno",
+                  "deno-doc",
+                  "http-assertions",
+                  "http-testing",
+                  "oak",
+                  "superdeno",
+                  "superoak",
+                  "supertest",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -892,12 +1518,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A test double library",
+                "homepage": "https://drash.land/rhum",
                 "id": 273513411,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-31T00:34:52Z",
+                "open_issues": 8,
                 "owner": "drashland",
                 "repo": "rhum",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "deno",
+                  "node",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -908,12 +1543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Worlds first JS/TS universal automated testing library for any JavaScript/TypeScript runtime(s), only one to my knowledge.",
+                "homepage": "https://izelnakri.github.io/qunitx/",
                 "id": 326321479,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T04:08:56Z",
+                "open_issues": 0,
                 "owner": "izelnakri",
                 "repo": "qunitx",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -931,12 +1571,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.",
+                "homepage": "https://croner.56k.guru",
                 "id": 47717814,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T23:53:45Z",
+                "open_issues": 2,
                 "owner": "Hexagon",
                 "repo": "croner",
-                "stars": 2586
+                "stars": 2586,
+                "topics": [
+                  "cron",
+                  "crontab",
+                  "crontab-syntax",
+                  "deno",
+                  "javascript",
+                  "javascript-cron-parser",
+                  "javascript-cron-scheduler",
+                  "job",
+                  "parser",
+                  "schedule",
+                  "scheduler",
+                  "scheduling",
+                  "task",
+                  "timer",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -947,12 +1608,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: The fastest JS validator library for NodeJS",
+                "homepage": null,
                 "id": 84318409,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T21:39:10Z",
+                "open_issues": 45,
                 "owner": "icebob",
                 "repo": "fastest-validator",
-                "stars": 1464
+                "stars": 1464,
+                "topics": [
+                  "schema",
+                  "schema-validation",
+                  "validate",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -963,12 +1634,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👀 Monitor any changes in your Deno application and automatically restart.",
+                "homepage": "https://deno.land/x/denon",
                 "id": 233159045,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-21T13:29:34Z",
+                "open_issues": 27,
                 "owner": "denosaurs",
                 "repo": "denon",
-                "stars": 1108
+                "stars": 1108,
+                "topics": [
+                  "daemon",
+                  "deno",
+                  "denon",
+                  "hacktoberfest",
+                  "restart",
+                  "runner",
+                  "scripts",
+                  "typescript",
+                  "watch",
+                  "watcher"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -979,12 +1666,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💧EventEmitter's typesafe replacement",
+                "homepage": "https://evt.land",
                 "id": 81787426,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-01T21:27:55Z",
+                "open_issues": 8,
                 "owner": "garronej",
                 "repo": "evt",
-                "stars": 461
+                "stars": 461,
+                "topics": [
+                  "async-await",
+                  "browser",
+                  "deno",
+                  "eventemitter",
+                  "node",
+                  "nodejs",
+                  "promise",
+                  "react-native",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -995,12 +1697,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦩 Joi like validations for TypeScript",
+                "homepage": null,
                 "id": 245673761,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-15T18:24:18Z",
+                "open_issues": 8,
                 "owner": "neuledge",
                 "repo": "computed-types",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "async",
+                  "javascript",
+                  "runtime",
+                  "schema",
+                  "strongly-typed",
+                  "typescript",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1011,12 +1726,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[A]synchronous Functional Programming",
+                "homepage": "https://rubico.land",
                 "id": 219276883,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T16:42:58Z",
+                "open_issues": 52,
                 "owner": "a-synchronous",
                 "repo": "rubico",
-                "stars": 283
+                "stars": 283,
+                "topics": [
+                  "async",
+                  "async-await",
+                  "asynchronous",
+                  "combinators",
+                  "concurrent",
+                  "function-composition",
+                  "functional-programming",
+                  "generator",
+                  "iterator",
+                  "javascript",
+                  "monad",
+                  "mux",
+                  "node",
+                  "operator",
+                  "parallel",
+                  "pointfree",
+                  "promise",
+                  "series",
+                  "tacit",
+                  "transducers"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1027,12 +1768,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust-like error handling and options for TypeScript and Deno!",
+                "homepage": null,
                 "id": 409741256,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-09T16:05:31Z",
+                "open_issues": 5,
                 "owner": "OliverBrotchie",
                 "repo": "optionals",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "deno",
+                  "error-handling",
+                  "rust",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1043,12 +1794,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💎 Solidity compiler bindings for Deno",
+                "homepage": "https://jsr.io/@deno-web3/solc",
                 "id": 409867419,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-27T21:01:59Z",
+                "open_issues": 2,
                 "owner": "deno-web3",
                 "repo": "solc",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "deno",
+                  "ethereum",
+                  "smart-contracts",
+                  "solc",
+                  "solcjs",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1059,12 +1822,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📇 Generate QR code images in Deno",
+                "homepage": "https://denorg.github.io/qrcode/",
                 "id": 264291724,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T17:09:49Z",
+                "open_issues": 7,
                 "owner": "denorg",
                 "repo": "qrcode",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "deno",
+                  "denoland",
+                  "denorg",
+                  "hacktoberfest",
+                  "hacktoberfest2023",
+                  "qrcode",
+                  "qrcode-generator",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1075,12 +1852,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create validations with ease",
+                "homepage": "https://npmjs.com/garn-validator",
                 "id": 280854988,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-23T15:41:35Z",
+                "open_issues": 7,
                 "owner": "jupegarnica",
                 "repo": "garn-validator",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "checker",
+                  "deno",
+                  "nodejs",
+                  "primitives-checking",
+                  "schema",
+                  "type",
+                  "types",
+                  "validation",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1091,12 +1883,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DEPRECATED - Bundle assets and scripts in a single executable file. Deno",
+                "homepage": null,
                 "id": 369911151,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-01T17:15:43Z",
+                "open_issues": 0,
                 "owner": "jacoborus",
                 "repo": "deno-buckets",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "asset-management",
+                  "assets",
+                  "bundler",
+                  "deno",
+                  "deno-module",
+                  "deno-tools",
+                  "files",
+                  "precompiler",
+                  "single-file",
+                  "single-file-generator"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1107,12 +1915,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe config for TypeScript. Read typed values from any source, .env files, process.env, Workers bindings, browser bundles, or any object you bind. Zero runtime deps, one API across Node, Bun, Deno, Workers, and the browser.",
+                "homepage": "https://envapt.materwelon.dev",
                 "id": 1028829693,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T03:32:56Z",
+                "open_issues": 2,
                 "owner": "materwelonDhruv",
                 "repo": "envapt",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "arktype",
+                  "config",
+                  "cross-runtime",
+                  "decorators",
+                  "dotenv",
+                  "dotenv-alternative",
+                  "env",
+                  "environment",
+                  "environment-variables",
+                  "manage-secrets",
+                  "secrets",
+                  "settings",
+                  "templates",
+                  "type-safe",
+                  "typescript",
+                  "valibot",
+                  "variables",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1123,12 +1955,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse, modify, and format time durations.",
+                "homepage": null,
                 "id": 447464718,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-15T16:33:36Z",
+                "open_issues": 0,
                 "owner": "retraigo",
                 "repo": "duration.js",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "datetime",
+                  "deno",
+                  "duration",
+                  "javascript",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1139,12 +1983,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TypeScript module for random events and gacha (random sampling with weights).",
+                "homepage": null,
                 "id": 471992611,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-04T01:20:06Z",
+                "open_issues": 0,
                 "owner": "retraigo",
                 "repo": "fortuna",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "deno",
+                  "dice",
+                  "gacha",
+                  "random",
+                  "toss-a-coin",
+                  "typescript",
+                  "weighted-random-choice"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1155,12 +2012,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compute differences between two slices using wu(the O(NP)) algorithm.",
+                "homepage": null,
                 "id": 126414871,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-12T17:52:30Z",
+                "open_issues": 13,
                 "owner": "bokuweb",
                 "repo": "wu-diff-js",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1171,12 +2033,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno KV file system, compatible with Deno deploy. Saves files in 64kb chunks. You can organize files into directories. You can control the KB/s rate for saving and reading files, rate limit, user space limit and limit concurrent operations, useful for controlling uploads/downloads. Makes use of Web Streams API.",
+                "homepage": null,
                 "id": 862908884,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-20T17:04:04Z",
+                "open_issues": 0,
                 "owner": "hviana",
                 "repo": "deno_kv_fs",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "deno",
+                  "filesystem"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1187,12 +2057,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typed, zero-dependency CSV parser and encoder for TypeScript. Streams with flat memory and runs on Node, browsers, Deno, Bun, and edge.",
+                "homepage": "https://martsinlabs.github.io/csv-pipe/",
                 "id": 713070234,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T18:57:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:56:41Z",
+                "open_issues": 4,
                 "owner": "martsinlabs",
                 "repo": "csv-pipe",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "bun",
+                  "csv",
+                  "csv-parse",
+                  "csv-parser",
+                  "csv-stringify",
+                  "deno",
+                  "edge",
+                  "javascript",
+                  "nodejs",
+                  "parser",
+                  "rfc4180",
+                  "streaming",
+                  "stringify",
+                  "typescript",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1203,12 +2094,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preserve `localStorage` in databases.",
+                "homepage": null,
                 "id": 522856013,
                 "language": "TypeScript",
+                "license": "WTFPL",
                 "last_commit": "2025-07-22T13:06:42Z",
+                "open_issues": 0,
                 "owner": "xorgram",
                 "repo": "pls",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "deno",
+                  "localstorage",
+                  "mongo",
+                  "postgres",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1219,12 +2121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color conversion and stuff in TypeScript",
+                "homepage": null,
                 "id": 576586081,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-14T03:57:43Z",
+                "open_issues": 0,
                 "owner": "retraigo",
                 "repo": "colors",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1235,12 +2142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to streamline deno app configuration management through cli, .env and json files",
+                "homepage": null,
                 "id": 411043231,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-10-03T12:28:09Z",
+                "open_issues": 0,
                 "owner": "yooneskh",
                 "repo": "deno-unified-config",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1251,12 +2163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A translation/localisation/dynamic string library written in pure TS",
+                "homepage": null,
                 "id": 583844689,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-17T08:33:35Z",
+                "open_issues": 0,
                 "owner": "locale-kit",
                 "repo": "locale-kit",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1267,12 +2184,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESMitter is a fork of the popular EventEmitter3 with a focus on EcmaScript module syntax, TypeScript and modern tooling.",
+                "homepage": "https://tillsanders.github.io/esm-itter/",
                 "id": 774956933,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-10T09:56:51Z",
+                "open_issues": 0,
                 "owner": "tillsanders",
                 "repo": "esm-itter",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "browser",
+                  "esmodule",
+                  "eventemitter",
+                  "events",
+                  "node",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1283,12 +2212,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TS] Switcher Client - Deno SDK to work with Switcher API - Cloud-based Feature Flag ",
+                "homepage": "https://jsr.io/@switcherapi/switcher-client-deno",
                 "id": 510123151,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T23:26:24Z",
+                "open_issues": 0,
                 "owner": "switcherapi",
                 "repo": "switcher-client-deno",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "deno",
+                  "feature-flags",
+                  "switcher-api",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1306,12 +2245,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript-first schema validation with static type inference",
+                "homepage": "https://zod.dev",
                 "id": 245704608,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:18:41Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:59:43Z",
+                "open_issues": 76,
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 43545
+                "stars": 43556,
+                "topics": [
+                  "runtime-validation",
+                  "schema-validation",
+                  "static-types",
+                  "type-inference",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1329,12 +2279,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web framework built on Web Standards",
+                "homepage": "https://hono.dev",
                 "id": 438384984,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:38:15Z",
+                "open_issues": 377,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31998
+                "stars": 32011,
+                "topics": [
+                  "aws-lambda",
+                  "bun",
+                  "cloudflare",
+                  "cloudflare-workers",
+                  "deno",
+                  "npm",
+                  "router",
+                  "typescript",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1350,12 +2315,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Proxy middleware for Deno Oak HTTP servers. 🐿 🦕",
+                    "homepage": "https://cmorten.github.io/oak-http-proxy/",
                     "id": 290468584,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-01-28T22:05:27Z",
+                    "open_issues": 1,
                     "owner": "cmorten",
                     "repo": "oak-http-proxy",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "deno",
+                      "deno-doc",
+                      "deno-module",
+                      "denojs",
+                      "denoland",
+                      "http-proxy",
+                      "oak",
+                      "oak-http-proxy",
+                      "proxy-middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:07:05.684Z"
                 },
@@ -1366,24 +2346,49 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TypeScript Decorators for easy scaffolding API services with the oak framework (jsr:@oak/oak)",
+                    "homepage": "https://jsr.io/@dklab/oak-routing-ctrl",
                     "id": 766306490,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T12:39:08Z",
+                    "open_issues": 2,
                     "owner": "Thesephi",
                     "repo": "oak-routing-ctrl",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "api",
+                      "bun",
+                      "cloudflare-workers",
+                      "deno",
+                      "nodejs",
+                      "oak",
+                      "routing"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:07:05.684Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕",
+                "homepage": "https://oakserver.org",
                 "id": 161470791,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-22T08:54:17Z",
+                "open_issues": 52,
                 "owner": "oakserver",
                 "repo": "oak",
-                "stars": 5411
+                "stars": 5411,
+                "topics": [
+                  "deno",
+                  "http-server",
+                  "middleware-framework",
+                  "middleware-frameworks",
+                  "oak",
+                  "router-middleware"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1394,12 +2399,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A strongly typed, runtime-agnostic web framework for building structured HTTP services in JavaScript, built on Web Standards.",
+                "homepage": null,
                 "id": 171999885,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T13:58:36Z",
+                "open_issues": 1,
                 "owner": "drashland",
                 "repo": "drash",
-                "stars": 1067
+                "stars": 1067,
+                "topics": [
+                  "bun",
+                  "cloudflare",
+                  "deno",
+                  "http-server",
+                  "javascript",
+                  "mdn",
+                  "nodejs",
+                  "rest-api",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1415,24 +2435,53 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Proxy middleware for Deno Opine HTTP servers.",
+                    "homepage": "https://cmorten.github.io/opine-http-proxy/",
                     "id": 268845542,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-11-15T16:36:09Z",
+                    "open_issues": 1,
                     "owner": "cmorten",
                     "repo": "opine-http-proxy",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "deno",
+                      "deno-doc",
+                      "deno-module",
+                      "denojs",
+                      "denoland",
+                      "http-proxy",
+                      "opine",
+                      "opine-http-proxy",
+                      "proxy-middleware"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:07:05.684Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalist web framework for Deno ported from ExpressJS.",
+                "homepage": "https://github.com/cmorten/opine/blob/main/.github/API/api.md",
                 "id": 265215050,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-28T09:41:46Z",
+                "open_issues": 2,
                 "owner": "cmorten",
                 "repo": "opine",
-                "stars": 848
+                "stars": 848,
+                "topics": [
+                  "deno",
+                  "deno-doc",
+                  "deno-module",
+                  "denojs",
+                  "denoland",
+                  "express",
+                  "expressjs",
+                  "opine"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1443,12 +2492,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alosaur - Deno web framework with many ES Decorators",
+                "homepage": "https://alosaur.github.io/info/",
                 "id": 178385219,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-24T10:18:25Z",
+                "open_issues": 23,
                 "owner": "alosaur",
                 "repo": "alosaur",
-                "stars": 818
+                "stars": 818,
+                "topics": [
+                  "decorators",
+                  "deno",
+                  "middleware",
+                  "mvc"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1459,12 +2518,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !",
+                "homepage": "https://danet.land",
                 "id": 483832296,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T03:49:39Z",
+                "open_issues": 3,
                 "owner": "Savory",
                 "repo": "Danet",
-                "stars": 527
+                "stars": 527,
+                "topics": [
+                  "deno",
+                  "dependency-injection",
+                  "framework",
+                  "hacktoberfest",
+                  "ioc",
+                  "typescript",
+                  "websocket",
+                  "websocket-server"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1475,12 +2548,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal and fast 🏃 HTTP server framework for Deno.",
+                "homepage": null,
                 "id": 262833734,
                 "language": "TypeScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-12-13T11:23:26Z",
+                "open_issues": 4,
                 "owner": "predetermined",
                 "repo": "aqua",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "aqua",
+                  "cookies",
+                  "deno",
+                  "file-upload",
+                  "hacktoberfest",
+                  "http",
+                  "http-server",
+                  "middlewares",
+                  "typescript",
+                  "web",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1491,12 +2581,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.",
+                "homepage": null,
                 "id": 858918027,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-06T17:05:16Z",
+                "open_issues": 0,
                 "owner": "hviana",
                 "repo": "faster_react",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "deno",
+                  "full-stack-web-development",
+                  "react",
+                  "rsc"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1507,12 +2607,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and optimized middleware server with an absurdly small amount of code (300 lines) built on top of native HTTP APIs with no dependencies. It also has a collection of useful middlewares: log file, serve static, CORS, session, rate limit, token, body parsers, redirect, proxy and handle upload. For Deno Deploy and other enviroments!",
+                "homepage": null,
                 "id": 466133463,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-08-01T12:27:09Z",
+                "open_issues": 0,
                 "owner": "hviana",
                 "repo": "faster",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "deno",
+                  "middleware",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1530,12 +2639,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebSocket library for Deno",
+                "homepage": null,
                 "id": 239170384,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-02T00:33:36Z",
+                "open_issues": 2,
                 "owner": "drashland",
                 "repo": "wocket",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "application",
+                  "deno",
+                  "realworld",
+                  "sockets",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1546,12 +2666,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom event-based WebSockets framework for building real-time apps on Deno 🦕",
+                "homepage": null,
                 "id": 327196725,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-06T19:44:30Z",
+                "open_issues": 1,
                 "owner": "denyncrawford",
                 "repo": "dropper-deno",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "client",
+                  "deno",
+                  "real-time",
+                  "server",
+                  "socket",
+                  "websocket",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1569,12 +2702,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL, built for Deno - a native GraphQL caching client and server module",
+                "homepage": null,
                 "id": 291299977,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-17T20:42:12Z",
+                "open_issues": 4,
                 "owner": "open-source-labs",
                 "repo": "obsidian",
-                "stars": 766
+                "stars": 766,
+                "topics": [
+                  "deno",
+                  "graphql",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1585,12 +2728,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create and verify JSON Web Tokens (JWT) with Deno or the browser.",
+                "homepage": null,
                 "id": 208494002,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-09T14:16:06Z",
+                "open_issues": 3,
                 "owner": "Zaubrik",
                 "repo": "djwt",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "authentication",
+                  "browser",
+                  "deno",
+                  "jsonwebtoken",
+                  "jwt"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1601,12 +2755,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "☁ Universal GraphQL HTTP middleware for Deno and Bun",
+                "homepage": "https://jsr.io/@deno-libs/gql",
                 "id": 347456681,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T10:28:22Z",
+                "open_issues": 0,
                 "owner": "deno-libs",
                 "repo": "gql",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "graphql",
+                  "graphql-api",
+                  "graphql-server"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1617,12 +2782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno client for NATS, the cloud native messaging system",
+                "homepage": "https://www.nats.io",
                 "id": 273589798,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T21:53:53Z",
+                "open_issues": 10,
                 "owner": "nats-io",
                 "repo": "nats.deno",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1633,12 +2803,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A server-side-rendered charting library for Fresh",
+                "homepage": "https://fresh-charts.deno.dev/",
                 "id": 550691825,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-17T10:47:29Z",
+                "open_issues": 9,
                 "owner": "denoland",
                 "repo": "fresh_charts",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "charting-library",
+                  "chartjs",
+                  "charts",
+                  "deno",
+                  "fresh"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1649,12 +2830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance basic router works anywhere.",
+                "homepage": null,
                 "id": 264541917,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-02T22:50:32Z",
+                "open_issues": 2,
                 "owner": "zhmushan",
                 "repo": "router",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1665,12 +2851,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON-RPC 2.0 library with HTTP and WebSockets support for deno and the browser",
+                "homepage": null,
                 "id": 245918803,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-18T17:27:46Z",
+                "open_issues": 2,
                 "owner": "timonson",
                 "repo": "gentle_rpc",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "browser",
+                  "deno",
+                  "esmodules",
+                  "fetch",
+                  "javascript",
+                  "json-rpc2",
+                  "rpc",
+                  "typescript",
+                  "websocket",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1681,12 +2883,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A prometheus client in Typescript for Deno",
+                "homepage": null,
                 "id": 273336076,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-11-14T15:20:00Z",
+                "open_issues": 1,
                 "owner": "marcopacini",
                 "repo": "ts_prometheus",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "deno",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-client"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1697,12 +2909,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 JSONRPC server router for Deno",
+                "homepage": "https://jsr.io/@deno-libs/rpc",
                 "id": 410008067,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T12:19:19Z",
+                "open_issues": 1,
                 "owner": "deno-libs",
                 "repo": "rpc",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "deno",
+                  "deno-server",
+                  "jsonrpc",
+                  "jsonrpc-server",
+                  "rpc",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1713,12 +2937,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno port of `forwarded` library",
+                "homepage": "https://jsr.io/@deno-libs/forwarded",
                 "id": 345100843,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-26T11:25:36Z",
+                "open_issues": 0,
                 "owner": "deno-libs",
                 "repo": "forwarded",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "backend",
+                  "deno",
+                  "deno-library",
+                  "deno-port",
+                  "http",
+                  "x-forwarded-for"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -1729,12 +2965,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦕 Create a GraphQL schema AST from template literal. Deno port of `graphql-tag` library",
+                "homepage": "https://jsr.io/@deno-libs/graphql-tag",
                 "id": 347471900,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T11:29:26Z",
+                "open_issues": 0,
                 "owner": "deno-libs",
                 "repo": "graphql_tag",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "deno",
+                  "graphql",
+                  "graphql-tools"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1752,12 +2997,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs",
+                "homepage": "https://deno.land/x/webview",
                 "id": 245254578,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-25T09:19:36Z",
+                "open_issues": 43,
                 "owner": "webview",
                 "repo": "webview_deno",
-                "stars": 1591
+                "stars": 1591,
+                "topics": [
+                  "deno",
+                  "deno-bindings",
+                  "deno-module",
+                  "deno-plugin",
+                  "deno-plugins",
+                  "deno-webview",
+                  "gui",
+                  "hacktoberfest",
+                  "typescript",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1775,12 +3036,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAX-style (Simple API for XML) parser in TypeScript",
+                "homepage": null,
                 "id": 169980607,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-17T05:56:44Z",
+                "open_issues": 0,
                 "owner": "Maxim-Mazurok",
                 "repo": "sax-ts",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "contributions-welcome",
+                  "deno",
+                  "help-wanted",
+                  "node",
+                  "node-js",
+                  "node-module",
+                  "nodejs",
+                  "npm",
+                  "npm-module",
+                  "npm-package",
+                  "sax",
+                  "sax-parser",
+                  "typescript",
+                  "xml",
+                  "xml-parser"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -1802,12 +3084,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 Add dynamically generated GitHub Stat Trophies  on your readme",
+            "homepage": "https://github-profile-trophy.vercel.app",
             "id": 289523918,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
+            "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6638
+            "stars": 6639,
+            "topics": [
+              "deno",
+              "github",
+              "github-profile",
+              "github-profile-readme",
+              "github-profile-trophy",
+              "github-readme",
+              "github-readme-trophy",
+              "github-trophy",
+              "hacktoberfest",
+              "rank",
+              "readme",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1818,12 +3118,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edrys is an open and modular remote teaching platform (and the first live LMS)",
+            "homepage": "https://edrys.org",
             "id": 453979926,
             "language": "Vue",
+            "license": "MPL-2.0",
             "last_commit": "2024-08-12T09:01:29Z",
+            "open_issues": 8,
             "owner": "edrys-org",
             "repo": "edrys",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "classroom",
+              "edrys",
+              "edtech",
+              "education",
+              "remote-teaching",
+              "virtual-classroom"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1834,12 +3146,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Boilerplate for deno RESTful apis",
+            "homepage": null,
             "id": 294730305,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-09T22:44:25Z",
+            "open_issues": 3,
             "owner": "Prolifode",
             "repo": "deno_rest",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "api-starter",
+              "boilerplate",
+              "deno",
+              "deno-boilerplate",
+              "deno-generator",
+              "deno-mongo",
+              "deno-rest",
+              "denon",
+              "jwt",
+              "mongodb",
+              "oak",
+              "rest-api",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1850,12 +3181,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chobble Tickets: Minimalist and private ticket sales on Bunny's Edge Scripts - a \"no per-attendee fee\" alternative to BookItBee, Eventbrite, Seetickets, etc",
+            "homepage": "https://tickets.chobble.com",
             "id": 1138782336,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:40:38Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:12:31Z",
+            "open_issues": 40,
             "owner": "chobbledotcom",
             "repo": "tickets",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "bunny",
+              "deno",
+              "edge",
+              "event-management",
+              "events",
+              "libsql",
+              "manchester",
+              "ticket-booking",
+              "ticketing",
+              "ticketing-system",
+              "tickets"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1866,12 +3214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deno Deploy template for ShopSavvy Data API - product search and price comparison with Hono router",
+            "homepage": "https://shopsavvy.com/integrations/deno-deploy",
             "id": 1198220947,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-01T08:28:27Z",
+            "open_issues": 0,
             "owner": "shopsavvy",
             "repo": "deno-deploy-shopsavvy",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         }
@@ -1888,12 +3241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code plugin for Deno",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno",
             "id": 262098081,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-02T13:35:18Z",
+            "open_issues": 124,
             "owner": "denoland",
             "repo": "vscode_deno",
-            "stars": 1547
+            "stars": 1547,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1904,12 +3262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deno to npm package build tool.",
+            "homepage": null,
             "id": 407968049,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-03T18:32:34Z",
+            "open_issues": 63,
             "owner": "denoland",
             "repo": "dnt",
-            "stars": 1334
+            "stars": 1334,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1920,12 +3283,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👀 Monitor any changes in your Deno application and automatically restart.",
+            "homepage": "https://deno.land/x/denon",
             "id": 233159045,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-21T13:29:34Z",
+            "open_issues": 27,
             "owner": "denosaurs",
             "repo": "denon",
-            "stars": 1108
+            "stars": 1108,
+            "topics": [
+              "daemon",
+              "deno",
+              "denon",
+              "hacktoberfest",
+              "restart",
+              "runner",
+              "scripts",
+              "typescript",
+              "watch",
+              "watcher"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1936,12 +3315,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu",
+            "homepage": "https://hub.docker.com/r/denoland/deno",
             "id": 164270824,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:39:01Z",
+            "open_issues": 18,
             "owner": "denoland",
             "repo": "deno_docker",
-            "stars": 1018
+            "stars": 1018,
+            "topics": [
+              "deno",
+              "docker",
+              "dockerfile",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1952,12 +3341,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.",
+            "homepage": "https://garronej.github.io/denoify/",
             "id": 241567412,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-01T20:23:30Z",
+            "open_issues": 14,
             "owner": "garronej",
             "repo": "denoify",
-            "stars": 949
+            "stars": 949,
+            "topics": [
+              "build-tool",
+              "deno",
+              "hacktoberfest",
+              "jspm",
+              "node-builtin",
+              "support-deno",
+              "sypack"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1968,12 +3370,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package Manager for deno 🦕",
+            "homepage": "https://crewdevio.mod.land/projects/Trex",
             "id": 266461019,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-18T22:39:08Z",
+            "open_issues": 7,
             "owner": "crewdevio",
             "repo": "Trex",
-            "stars": 727
+            "stars": 726,
+            "topics": [
+              "deno",
+              "deno-package-manage",
+              "denoland",
+              "modules",
+              "nestland",
+              "npm-package",
+              "package",
+              "package-manager",
+              "party-packages",
+              "trex"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -1984,12 +3402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update Deno Dependencies - update dependency urls to their latest published versions",
+            "homepage": null,
             "id": 245330608,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-25T19:45:17Z",
+            "open_issues": 36,
             "owner": "hayd",
             "repo": "deno-udd",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2000,12 +3423,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes",
+            "homepage": "https://playground.owenyoung.com/",
             "id": 444281513,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-04T17:12:38Z",
+            "open_issues": 0,
             "owner": "denoflow",
             "repo": "denoflow",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "actions",
+              "ansible",
+              "automated",
+              "comtrya",
+              "deno",
+              "ifttt",
+              "typescript",
+              "workflow",
+              "zapier"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2016,12 +3454,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easier way to use code from GitHub in your Deno project.",
+            "homepage": "https://denopkg.com",
             "id": 163003721,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-08-14T15:38:12Z",
+            "open_issues": 9,
             "owner": "egoist-labs",
             "repo": "denopkg.com",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "deno",
+              "pkg"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2032,12 +3478,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal process manager built in Deno",
+            "homepage": "https://pup.56k.guru",
             "id": 610483663,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T22:53:01Z",
+            "open_issues": 14,
             "owner": "Hexagon",
             "repo": "pup",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "backend",
+              "bun",
+              "cron",
+              "deno",
+              "denon",
+              "monitor",
+              "node",
+              "process-manager",
+              "process-monitor"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2048,12 +3509,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deno command-line interfaces made easy",
+            "homepage": "https://doc.deno.land/https/deno.land/x/denomander/docs.ts",
             "id": 245916074,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-20T12:44:36Z",
+            "open_issues": 3,
             "owner": "siokas",
             "repo": "denomander",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "arguments-parser",
+              "cli",
+              "cli-app",
+              "command-line-interface",
+              "command-line-parser",
+              "deno",
+              "deno-arguments-parser",
+              "deno-tools",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2064,12 +3540,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert a folder or a RSS URL to Studio pack zip for Lunii device",
+            "homepage": null,
             "id": 413553539,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-28T17:13:17Z",
+            "open_issues": 2,
             "owner": "jersou",
             "repo": "studio-pack-generator",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "deno",
+              "lunii",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2080,12 +3565,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, dependency free static file server for Deno with possibly the worst name ever.",
+            "homepage": null,
             "id": 264416102,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-24T10:46:57Z",
+            "open_issues": 5,
             "owner": "joakimunge",
             "repo": "denoliver",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "cli",
+              "deno",
+              "denoland",
+              "dependency-free",
+              "dev-server",
+              "file-server",
+              "live-reload",
+              "server",
+              "typescript",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2096,12 +3597,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Deno Module Manager",
+            "homepage": "https://drash.land/dmm",
             "id": 269621761,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-25T00:53:23Z",
+            "open_issues": 2,
             "owner": "drashland",
             "repo": "dmm",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "deno",
+              "module-manager"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2112,12 +3621,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.",
+            "homepage": null,
             "id": 265805063,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T03:04:07Z",
+            "open_issues": 5,
             "owner": "bevry",
             "repo": "make-deno-edition",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "deno",
+              "denoland",
+              "executable",
+              "node",
+              "node-js",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2128,12 +3649,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deno Package Manager (Unofficial)  :sauropod:   NPM Experience for Deno",
+            "homepage": "https://deno.land/x/dpm",
             "id": 449428149,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-18T19:49:33Z",
+            "open_issues": 0,
             "owner": "dpmland",
             "repo": "dpm",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "deno",
+              "deno-tools",
+              "denoland",
+              "hacktoberfest",
+              "package-manager",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2144,12 +3677,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶 A Deno registry browser in the terminal",
+            "homepage": null,
             "id": 306687063,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-03T22:25:20Z",
+            "open_issues": 0,
             "owner": "littletof",
             "repo": "kopo-cli",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "deno",
+              "deno-registry-browser",
+              "kopo-cli",
+              "nest",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2160,12 +3704,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple utility for the convenient clone",
+            "homepage": null,
             "id": 196221152,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-30T19:35:50Z",
+            "open_issues": 1,
             "owner": "ekaragodin",
             "repo": "clone",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cli",
+              "deno",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2176,12 +3729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool and library which generates types for serialized data formats.",
+            "homepage": null,
             "id": 678162395,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-23T21:39:18Z",
+            "open_issues": 1,
             "owner": "bcheidemann",
             "repo": "entype",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2192,12 +3750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for excavating application code and npm packages from stand-alone Deno binaries",
+            "homepage": "https://gebir.ge/deno-dig/",
             "id": 872821516,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-10-29T13:59:43Z",
+            "open_issues": 0,
             "owner": "theGEBIRGE",
             "repo": "DenoDig",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
@@ -2213,12 +3776,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦕 Deno Version Manager - Easy way to manage multiple active deno versions.",
+                "homepage": null,
                 "id": 147369276,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-25T11:18:30Z",
+                "open_issues": 0,
                 "owner": "justjavac",
                 "repo": "dvm",
-                "stars": 709
+                "stars": 710,
+                "topics": [
+                  "deno",
+                  "dvm",
+                  "package-manager",
+                  "runtime",
+                  "typescript",
+                  "v8",
+                  "version"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -2229,12 +3805,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Fast and simple version manger for Deno without runtime dependencies",
+                "homepage": "https://deno.land",
                 "id": 226796939,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-27T22:51:06Z",
+                "open_issues": 14,
                 "owner": "axetroy",
                 "repo": "dvm",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "deno",
+                  "dvm",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -2245,12 +3830,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno plugin for the asdf version manager [maintainer=LOOKING FOR A MAINTAINER! SUBMIT A PULL REQUEST TO THE INFRASTRUCTURE REPOSITORY!]",
+                "homepage": "https://github.com/asdf-vm/asdf",
                 "id": 210029795,
                 "language": "Shell",
-                "last_commit": "2026-07-20T21:03:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:15:09Z",
+                "open_issues": 9,
                 "owner": "asdf-community",
                 "repo": "asdf-deno",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "asdf",
+                  "asdf-plugin"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             },
@@ -2261,12 +3854,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deno Version Manager (DVM) - A lightweight, and powerful Deno Version Manager for MacOS, Linux, WSL, and Windows with Bash.",
+                "homepage": "https://github.com/ghosind/dvm",
                 "id": 263263629,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-09-16T15:26:19Z",
+                "open_issues": 4,
                 "owner": "ghosind",
                 "repo": "dvm",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "deno",
+                  "deno-version-manager",
+                  "dvm",
+                  "install",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
             }
@@ -2277,15 +3881,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:07:05.684Z",
+    "last_updated": "2026-08-29T04:18:03.757Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome things related to Deno",
+      "homepage": null,
       "id": 163803160,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-14T00:57:28Z",
+      "open_issues": 2,
       "owner": "denolib",
       "repo": "awesome-deno",
-      "stars": 4407
+      "stars": 4407,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deno"
+      ]
     },
     "original_repository_sha": "04122f91fe965cc109c13108839022d41acf37ed",
     "enhanced_repository": "enhansome/enhansome-deno",
