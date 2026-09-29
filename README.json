@@ -17,7 +17,7 @@
                 "id": 1257097658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T09:40:51Z",
+                "last_commit": "2026-09-28T08:31:55Z",
                 "open_issues": 2,
                 "owner": "zuke-build",
                 "repo": "zuke",
@@ -95,10 +95,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-24T20:15:06Z",
-                "open_issues": 211,
+                "open_issues": 210,
                 "owner": "yargs",
                 "repo": "yargs",
-                "stars": 11504,
+                "stars": 11505,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
@@ -393,7 +393,7 @@
                 "open_issues": 8,
                 "owner": "halvardssm",
                 "repo": "deno-nessie",
-                "stars": 519,
+                "stars": 520,
                 "topics": [
                   "deno",
                   "deno-mysql",
@@ -649,7 +649,7 @@
                 "open_issues": 158,
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13789,
+                "stars": 13790,
                 "topics": [
                   "deno",
                   "denofresh",
@@ -903,8 +903,8 @@
                 "id": 787362890,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T07:49:22Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-28T14:45:11Z",
+                "open_issues": 11,
                 "owner": "dahlia",
                 "repo": "logtape",
                 "stars": 2004,
@@ -944,7 +944,7 @@
                 "open_issues": 7,
                 "owner": "denosaurs",
                 "repo": "netsaur",
-                "stars": 256,
+                "stars": 255,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1051,6 +1051,42 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dmarc-rua",
+              "description": "Parse DMARC aggregate reports from XML, gzip, zip and report emails.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DMARC RUA aggregate report parser and MIME attachment extraction for Deno, Workers, and Node",
+                "homepage": "https://domaincanary.com",
+                "id": 1340232756,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-21T22:10:30Z",
+                "open_issues": 0,
+                "owner": "domaincanary",
+                "repo": "dmarc-rua",
+                "stars": 2,
+                "topics": [
+                  "cloudflare-workers",
+                  "deno",
+                  "dkim",
+                  "dmarc",
+                  "dmarc-parser",
+                  "dmarc-report-parser",
+                  "dmarc-reports",
+                  "email-authentication",
+                  "email-security",
+                  "jsr",
+                  "nodejs",
+                  "rua",
+                  "spf",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-29T02:47:35.822Z"
             }
           ],
           "description": null,
@@ -1251,7 +1287,7 @@
                 "open_issues": 24,
                 "owner": "grammyjs",
                 "repo": "grammY",
-                "stars": 3757,
+                "stars": 3758,
                 "topics": [
                   "bot",
                   "deno",
@@ -1277,7 +1313,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T12:44:59Z",
-                "open_issues": 114,
+                "open_issues": 117,
                 "owner": "discordeno",
                 "repo": "discordeno",
                 "stars": 942,
@@ -1604,11 +1640,11 @@
                 "id": 47717814,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T21:52:38Z",
+                "last_commit": "2026-09-28T22:19:46Z",
                 "open_issues": 4,
                 "owner": "Hexagon",
                 "repo": "croner",
-                "stars": 2596,
+                "stars": 2597,
                 "topics": [
                   "cron",
                   "crontab",
@@ -2279,10 +2315,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-24T02:29:02Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 44028,
+                "stars": 44033,
                 "topics": [
                   "runtime-validation",
                   "schema-validation",
@@ -2312,11 +2348,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T00:27:35Z",
-                "open_issues": 409,
+                "last_commit": "2026-09-28T08:48:13Z",
+                "open_issues": 416,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32364,
+                "stars": 32375,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -2408,7 +2444,7 @@
                 "open_issues": 52,
                 "owner": "oakserver",
                 "repo": "oak",
-                "stars": 5411,
+                "stars": 5410,
                 "topics": [
                   "deno",
                   "http-server",
@@ -2436,7 +2472,7 @@
                 "open_issues": 2,
                 "owner": "drashland",
                 "repo": "drash",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "bun",
                   "cloudflare",
@@ -2739,7 +2775,7 @@
                 "open_issues": 4,
                 "owner": "open-source-labs",
                 "repo": "obsidian",
-                "stars": 765,
+                "stars": 764,
                 "topics": [
                   "deno",
                   "graphql",
@@ -3121,7 +3157,7 @@
             "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6663,
+            "stars": 6664,
             "topics": [
               "deno",
               "github",
@@ -3214,8 +3250,8 @@
             "id": 1138782336,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T01:35:12Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-28T23:35:53Z",
+            "open_issues": 110,
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 32,
@@ -3461,7 +3497,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2023-10-04T17:12:38Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "denoflow",
             "repo": "denoflow",
             "stars": 288,
@@ -3913,7 +3949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T02:00:42.080Z",
+    "last_updated": "2026-09-29T02:47:35.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things related to Deno",
@@ -3921,8 +3957,8 @@
       "id": 163803160,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T00:34:08Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-28T10:42:14Z",
+      "open_issues": 2,
       "owner": "denolib",
       "repo": "awesome-deno",
       "stars": 4411,
@@ -3932,7 +3968,7 @@
         "deno"
       ]
     },
-    "original_repository_sha": "3f66a2f0d8551d1833d6861b48a3ba603d047b51",
+    "original_repository_sha": "05be08578bcf0301c532705bf7e4b32d3f2ff314",
     "enhanced_repository": "enhansome/enhansome-deno",
     "enhanced_repository_description": null,
     "title": "Awesome Deno with stars"
