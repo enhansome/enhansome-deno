@@ -17,8 +17,8 @@
                 "id": 1257097658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T15:24:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-13T03:55:58Z",
+                "open_issues": 5,
                 "owner": "zuke-build",
                 "repo": "zuke",
                 "stars": 46,
@@ -94,11 +94,11 @@
                 "id": 14210523,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T04:35:55Z",
-                "open_issues": 211,
+                "last_commit": "2026-10-13T03:15:18Z",
+                "open_issues": 210,
                 "owner": "yargs",
                 "repo": "yargs",
-                "stars": 11503,
+                "stars": 11504,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
@@ -116,10 +116,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-11T19:23:34Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "cacjs",
                 "repo": "cac",
-                "stars": 3136,
+                "stars": 3137,
                 "topics": [
                   "cli",
                   "command-line",
@@ -611,8 +611,8 @@
                 "id": 337125481,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T03:59:15Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-13T00:57:08Z",
+                "open_issues": 9,
                 "owner": "vim-denops",
                 "repo": "denops.vim",
                 "stars": 794,
@@ -649,7 +649,7 @@
                 "open_issues": 158,
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13793,
+                "stars": 13792,
                 "topics": [
                   "deno",
                   "denofresh",
@@ -907,7 +907,7 @@
                 "open_issues": 10,
                 "owner": "dahlia",
                 "repo": "logtape",
-                "stars": 2006,
+                "stars": 2007,
                 "topics": [
                   "bun",
                   "deno",
@@ -1187,11 +1187,11 @@
                 "id": 293613333,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T23:05:13Z",
+                "last_commit": "2026-10-12T18:41:18Z",
                 "open_issues": 45,
                 "owner": "lumeland",
                 "repo": "lume",
-                "stars": 2282,
+                "stars": 2281,
                 "topics": [
                   "deno",
                   "eta",
@@ -1458,6 +1458,42 @@
           "children": [
             {
               "node_type": "item",
+              "title": "keploy",
+              "description": "Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+                "homepage": "https://keploy.io",
+                "id": 449649393,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-13T03:55:36Z",
+                "open_issues": 782,
+                "owner": "keploy",
+                "repo": "keploy",
+                "stars": 18552,
+                "topics": [
+                  "agentic-ai",
+                  "ai-testing-tool",
+                  "api-testing",
+                  "code-quality",
+                  "mock",
+                  "mock-data-generator",
+                  "mock-framework",
+                  "test-automation",
+                  "test-automation-framework",
+                  "test-generation",
+                  "testing",
+                  "testing-library",
+                  "testing-tool",
+                  "testing-tools"
+                ]
+              },
+              "first_seen": "2026-10-13T03:56:40.559Z"
+            },
+            {
+              "node_type": "item",
               "title": "deno-puppeteer",
               "description": "A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.",
               "children": [],
@@ -1641,7 +1677,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:08:17Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Hexagon",
                 "repo": "croner",
                 "stars": 2608,
@@ -1867,7 +1903,7 @@
                 "open_issues": 2,
                 "owner": "deno-web3",
                 "repo": "solc",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "deno",
                   "ethereum",
@@ -1984,7 +2020,7 @@
                 "id": 1028829693,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T23:28:46Z",
+                "last_commit": "2026-10-12T23:51:20Z",
                 "open_issues": 1,
                 "owner": "materwelonDhruv",
                 "repo": "envapt",
@@ -2106,7 +2142,7 @@
                 "open_issues": 0,
                 "owner": "hviana",
                 "repo": "deno_kv_fs",
-                "stars": 17,
+                "stars": 16,
                 "topics": [
                   "deno",
                   "filesystem"
@@ -2314,11 +2350,11 @@
                 "id": 245704608,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T16:19:02Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-12T18:22:40Z",
+                "open_issues": 95,
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 44090,
+                "stars": 44104,
                 "topics": [
                   "runtime-validation",
                   "schema-validation",
@@ -2348,11 +2384,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T02:33:17Z",
-                "open_issues": 412,
+                "last_commit": "2026-10-12T02:44:29Z",
+                "open_issues": 413,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32489,
+                "stars": 32506,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -2468,8 +2504,8 @@
                 "id": 171999885,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T19:40:15Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-12T13:12:14Z",
+                "open_issues": 4,
                 "owner": "drashland",
                 "repo": "drash",
                 "stars": 1065,
@@ -2654,7 +2690,7 @@
                 "open_issues": 0,
                 "owner": "hviana",
                 "repo": "faster_react",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "deno",
                   "full-stack-web-development",
@@ -2775,7 +2811,7 @@
                 "open_issues": 4,
                 "owner": "open-source-labs",
                 "repo": "obsidian",
-                "stars": 764,
+                "stars": 765,
                 "topics": [
                   "deno",
                   "graphql",
@@ -2828,7 +2864,7 @@
                 "open_issues": 0,
                 "owner": "deno-libs",
                 "repo": "gql",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "bun",
                   "deno",
@@ -3191,7 +3227,7 @@
             "open_issues": 8,
             "owner": "edrys-org",
             "repo": "edrys",
-            "stars": 336,
+            "stars": 335,
             "topics": [
               "classroom",
               "edrys",
@@ -3250,8 +3286,8 @@
             "id": 1138782336,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T02:35:29Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-12T23:52:06Z",
+            "open_issues": 68,
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 34,
@@ -3292,7 +3328,15 @@
             "owner": "shopsavvy",
             "repo": "deno-deploy-shopsavvy",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "price-comparison",
+              "price-history",
+              "pricing-api",
+              "product-data",
+              "serverless",
+              "shopsavvy",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
         }
@@ -3792,6 +3836,38 @@
         },
         {
           "node_type": "item",
+          "title": "CompatLab",
+          "description": "Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source npm package loading checks across Node.js, Bun and Deno, with pinned runtimes, coverage details and shareable reports.",
+            "homepage": "https://compatlab.me/",
+            "id": 1402810838,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-12T23:21:35Z",
+            "open_issues": 0,
+            "owner": "siddiksawani",
+            "repo": "CompatLab",
+            "stars": 4,
+            "topics": [
+              "bun",
+              "commonjs",
+              "compatibility",
+              "deno",
+              "developer-tools",
+              "esm",
+              "javascript",
+              "nodejs",
+              "npm",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-13T03:56:40.559Z"
+        },
+        {
+          "node_type": "item",
           "title": "entype",
           "description": "A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.",
           "children": [],
@@ -3853,7 +3929,7 @@
                 "open_issues": 10,
                 "owner": "justjavac",
                 "repo": "dvm",
-                "stars": 711,
+                "stars": 712,
                 "topics": [
                   "deno",
                   "dvm",
@@ -3949,7 +4025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:40:56.638Z",
+    "last_updated": "2026-10-13T03:56:40.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things related to Deno",
@@ -3957,8 +4033,8 @@
       "id": 163803160,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-28T10:42:14Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-13T00:37:05Z",
+      "open_issues": 6,
       "owner": "denolib",
       "repo": "awesome-deno",
       "stars": 4411,
@@ -3968,7 +4044,7 @@
         "deno"
       ]
     },
-    "original_repository_sha": "05be08578bcf0301c532705bf7e4b32d3f2ff314",
+    "original_repository_sha": "1a8173de1d5945c5d3eaad1bbaaaedf1c4e30664",
     "enhanced_repository": "enhansome/enhansome-deno",
     "enhanced_repository_description": null,
     "title": "Awesome Deno with stars"
