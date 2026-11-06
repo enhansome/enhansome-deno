@@ -98,7 +98,7 @@
                 "open_issues": 199,
                 "owner": "yargs",
                 "repo": "yargs",
-                "stars": 11506,
+                "stars": 11505,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
@@ -119,7 +119,7 @@
                 "open_issues": 31,
                 "owner": "cacjs",
                 "repo": "cac",
-                "stars": 3148,
+                "stars": 3149,
                 "topics": [
                   "cli",
                   "command-line",
@@ -148,7 +148,7 @@
                 "open_issues": 34,
                 "owner": "c4spar",
                 "repo": "cliffy",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": [
                   "ansi-escape",
                   "argument-parser",
@@ -319,6 +319,51 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sigflint",
+              "description": "AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast AWS Signature Version 4 request signing for every AWS service, with no dependencies",
+                "homepage": "https://www.npmjs.com/package/sigflint",
+                "id": 1419876336,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-06T01:52:30Z",
+                "open_issues": 1,
+                "owner": "bompus",
+                "repo": "sigflint",
+                "stars": 2,
+                "topics": [
+                  "aws",
+                  "aws-s3",
+                  "aws-signature",
+                  "browser",
+                  "bun",
+                  "cloudflare-workers",
+                  "deno",
+                  "javascript",
+                  "nodejs",
+                  "presigned-url",
+                  "s3",
+                  "signature-v4",
+                  "sigv4",
+                  "sigv4a",
+                  "typescript",
+                  "zero-dependency"
+                ]
+              },
+              "first_seen": "2026-11-06T03:43:08.844Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud APIs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "denodb",
               "description": "MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.",
               "children": [],
@@ -450,8 +495,8 @@
                 "id": 163508735,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T07:06:02Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-05T15:28:11Z",
+                "open_issues": 40,
                 "owner": "denodrivers",
                 "repo": "redis",
                 "stars": 464,
@@ -649,7 +694,7 @@
                 "open_issues": 161,
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13789,
+                "stars": 13790,
                 "topics": [
                   "deno",
                   "denofresh",
@@ -806,7 +851,7 @@
                 "id": 312919660,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T21:48:24Z",
+                "last_commit": "2026-11-05T20:01:09Z",
                 "open_issues": 0,
                 "owner": "imagescript",
                 "repo": "ImageScript",
@@ -914,7 +959,7 @@
                 "open_issues": 11,
                 "owner": "dahlia",
                 "repo": "logtape",
-                "stars": 2026,
+                "stars": 2027,
                 "topics": [
                   "bun",
                   "deno",
@@ -1294,7 +1339,7 @@
                 "open_issues": 25,
                 "owner": "grammyjs",
                 "repo": "grammY",
-                "stars": 3794,
+                "stars": 3795,
                 "topics": [
                   "bot",
                   "deno",
@@ -1475,11 +1520,11 @@
                 "id": 449649393,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T03:42:38Z",
-                "open_issues": 853,
+                "last_commit": "2026-11-06T03:32:32Z",
+                "open_issues": 856,
                 "owner": "keploy",
                 "repo": "keploy",
-                "stars": 19410,
+                "stars": 19470,
                 "topics": [
                   "agentic-ai",
                   "ai-testing-tool",
@@ -1995,7 +2040,7 @@
                 "id": 1028829693,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T21:12:27Z",
+                "last_commit": "2026-11-05T13:03:13Z",
                 "open_issues": 3,
                 "owner": "materwelonDhruv",
                 "repo": "envapt",
@@ -2357,11 +2402,11 @@
                 "id": 245704608,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T16:42:31Z",
-                "open_issues": 115,
+                "last_commit": "2026-11-05T20:39:47Z",
+                "open_issues": 116,
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 44263,
+                "stars": 44266,
                 "topics": [
                   "runtime-validation",
                   "schema-validation",
@@ -2384,11 +2429,11 @@
                 "id": 1067760372,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T13:19:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-05T17:05:27Z",
+                "open_issues": 9,
                 "owner": "necoz-oss",
                 "repo": "is-kit",
-                "stars": 162,
+                "stars": 164,
                 "topics": [
                   "is",
                   "is-kit",
@@ -2423,11 +2468,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T10:36:12Z",
-                "open_issues": 399,
+                "last_commit": "2026-11-05T14:21:09Z",
+                "open_issues": 396,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32820,
+                "stars": 32838,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -3229,10 +3274,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T10:11:32Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6675,
+            "stars": 6679,
             "topics": [
               "deno",
               "github",
@@ -3325,8 +3370,8 @@
             "id": 1138782336,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T02:46:23Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-05T23:33:51Z",
+            "open_issues": 25,
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 37,
@@ -3349,6 +3394,27 @@
             ]
           },
           "first_seen": "2026-08-28T07:07:05.684Z"
+        },
+        {
+          "node_type": "item",
+          "title": "globnotes",
+          "description": "Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A self-hosted markdown notes app, with Obsidian-flavored support",
+            "homepage": null,
+            "id": 1021848617,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-05T08:26:43Z",
+            "open_issues": 1,
+            "owner": "alexindigo",
+            "repo": "globnotes",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-11-06T03:43:08.844Z"
         },
         {
           "node_type": "item",
@@ -3475,7 +3541,7 @@
             "open_issues": 18,
             "owner": "denoland",
             "repo": "deno_docker",
-            "stars": 1016,
+            "stars": 1015,
             "topics": [
               "deno",
               "docker",
@@ -3886,7 +3952,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-01T16:01:05Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "siddiksawani",
             "repo": "CompatLab",
             "stars": 4,
@@ -4066,7 +4132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:46:25.919Z",
+    "last_updated": "2026-11-06T03:43:08.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things related to Deno",
@@ -4074,8 +4140,8 @@
       "id": 163803160,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-28T02:50:36Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-05T09:18:17Z",
+      "open_issues": 2,
       "owner": "denolib",
       "repo": "awesome-deno",
       "stars": 4416,
@@ -4085,7 +4151,7 @@
         "deno"
       ]
     },
-    "original_repository_sha": "cf065d10e6e4e08b13948ad1e1cb5abc2e7281bd",
+    "original_repository_sha": "f8f89846ab8ac31e8f500e6299f74bdc69d5f3f9",
     "enhanced_repository": "enhansome/enhansome-deno",
     "enhanced_repository_description": null,
     "title": "Awesome Deno with stars"
