@@ -17,8 +17,8 @@
                 "id": 1257097658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T18:37:32Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-10T20:25:55Z",
+                "open_issues": 16,
                 "owner": "zuke-build",
                 "repo": "zuke",
                 "stars": 48,
@@ -94,11 +94,11 @@
                 "id": 14210523,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T05:02:22Z",
+                "last_commit": "2026-11-10T20:57:52Z",
                 "open_issues": 200,
                 "owner": "yargs",
                 "repo": "yargs",
-                "stars": 11505,
+                "stars": 11506,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
@@ -148,7 +148,7 @@
                 "open_issues": 34,
                 "owner": "c4spar",
                 "repo": "cliffy",
-                "stars": 1187,
+                "stars": 1188,
                 "topics": [
                   "ansi-escape",
                   "argument-parser",
@@ -181,7 +181,7 @@
                 "open_issues": 5,
                 "owner": "Im-Beast",
                 "repo": "deno_tui",
-                "stars": 307,
+                "stars": 308,
                 "topics": [
                   "console",
                   "deno",
@@ -333,7 +333,7 @@
                 "open_issues": 0,
                 "owner": "bompus",
                 "repo": "sigflint",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "aws",
                   "aws-s3",
@@ -438,7 +438,7 @@
                 "open_issues": 1,
                 "owner": "lmxrd",
                 "repo": "deno-nessie",
-                "stars": 518,
+                "stars": 519,
                 "topics": [
                   "deno",
                   "deno-mysql",
@@ -471,7 +471,7 @@
                 "open_issues": 48,
                 "owner": "denodrivers",
                 "repo": "mongo",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "database",
                   "deno",
@@ -694,7 +694,7 @@
                 "open_issues": 162,
                 "owner": "freshframework",
                 "repo": "fresh",
-                "stars": 13789,
+                "stars": 13791,
                 "topics": [
                   "deno",
                   "denofresh",
@@ -722,7 +722,7 @@
                 "open_issues": 28,
                 "owner": "exhibitionist-digital",
                 "repo": "ultra",
-                "stars": 2942,
+                "stars": 2943,
                 "topics": [
                   "0-legacy",
                   "deno",
@@ -754,7 +754,7 @@
                 "open_issues": 12,
                 "owner": "kt3k",
                 "repo": "packup",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "deno",
                   "esbuild",
@@ -851,11 +851,11 @@
                 "id": 312919660,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T20:26:48Z",
+                "last_commit": "2026-11-10T20:28:51Z",
                 "open_issues": 0,
                 "owner": "imagescript",
                 "repo": "ImageScript",
-                "stars": 681,
+                "stars": 685,
                 "topics": [
                   "avif",
                   "browser",
@@ -959,7 +959,7 @@
                 "open_issues": 12,
                 "owner": "dahlia",
                 "repo": "logtape",
-                "stars": 2028,
+                "stars": 2029,
                 "topics": [
                   "bun",
                   "deno",
@@ -1243,7 +1243,7 @@
                 "open_issues": 47,
                 "owner": "lumeland",
                 "repo": "lume",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": [
                   "deno",
                   "eta",
@@ -1287,6 +1287,40 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "zerho",
+              "description": "High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Next-gen high-performance documentation engine for Deno 2 & Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.",
+                "homepage": "https://glastor.es",
+                "id": 1433874601,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-10T19:07:45Z",
+                "open_issues": 0,
+                "owner": "glastor-core",
+                "repo": "zerho",
+                "stars": 1,
+                "topics": [
+                  "deno",
+                  "deno-deploy",
+                  "deno-kv",
+                  "developer-tools",
+                  "documentation",
+                  "documentation-engineering",
+                  "documentation-tool",
+                  "edge-computing",
+                  "high-performance",
+                  "llms-txt",
+                  "openapi",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-11-11T03:09:48.116Z"
             }
           ],
           "description": null,
@@ -1339,7 +1373,7 @@
                 "open_issues": 25,
                 "owner": "grammyjs",
                 "repo": "grammY",
-                "stars": 3800,
+                "stars": 3801,
                 "topics": [
                   "bot",
                   "deno",
@@ -1365,10 +1399,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-08T13:15:10Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "discordeno",
                 "repo": "discordeno",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "api",
                   "bot",
@@ -1402,7 +1436,7 @@
                 "open_issues": 1,
                 "owner": "MTKruto",
                 "repo": "MTKruto",
-                "stars": 175,
+                "stars": 174,
                 "topics": [
                   "bun",
                   "deno",
@@ -1520,11 +1554,11 @@
                 "id": 449649393,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T04:37:59Z",
-                "open_issues": 857,
+                "last_commit": "2026-11-11T02:54:09Z",
+                "open_issues": 856,
                 "owner": "keploy",
                 "repo": "keploy",
-                "stars": 19620,
+                "stars": 19693,
                 "topics": [
                   "agentic-ai",
                   "ai-testing-tool",
@@ -1588,7 +1622,7 @@
                 "open_issues": 51,
                 "owner": "unexpectedjs",
                 "repo": "unexpected",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "assertions",
                   "javascript",
@@ -1728,11 +1762,11 @@
                 "id": 47717814,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T22:39:35Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-10T20:56:50Z",
+                "open_issues": 7,
                 "owner": "Hexagon",
                 "repo": "croner",
-                "stars": 2615,
+                "stars": 2616,
                 "topics": [
                   "cron",
                   "crontab",
@@ -1769,7 +1803,7 @@
                 "open_issues": 45,
                 "owner": "icebob",
                 "repo": "fastest-validator",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "schema",
                   "schema-validation",
@@ -1827,7 +1861,7 @@
                 "open_issues": 8,
                 "owner": "garronej",
                 "repo": "evt",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "async-await",
                   "browser",
@@ -2040,7 +2074,7 @@
                 "id": 1028829693,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T19:05:11Z",
+                "last_commit": "2026-11-10T11:57:29Z",
                 "open_issues": 4,
                 "owner": "materwelonDhruv",
                 "repo": "envapt",
@@ -2406,7 +2440,7 @@
                 "open_issues": 122,
                 "owner": "colinhacks",
                 "repo": "zod",
-                "stars": 44303,
+                "stars": 44312,
                 "topics": [
                   "runtime-validation",
                   "schema-validation",
@@ -2429,11 +2463,11 @@
                 "id": 1067760372,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T17:31:05Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-10T13:34:53Z",
+                "open_issues": 9,
                 "owner": "necoz-oss",
                 "repo": "is-kit",
-                "stars": 175,
+                "stars": 180,
                 "topics": [
                   "is",
                   "is-kit",
@@ -2469,10 +2503,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-07T11:54:30Z",
-                "open_issues": 397,
+                "open_issues": 398,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32884,
+                "stars": 32909,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -2486,6 +2520,46 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:05.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "orpc",
+              "description": "End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Typesafe APIs Made Simple 🪄",
+                "homepage": "https://orpc.dev",
+                "id": 863811008,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-11T01:48:36Z",
+                "open_issues": 34,
+                "owner": "middleapi",
+                "repo": "orpc",
+                "stars": 5761,
+                "topics": [
+                  "api",
+                  "bunjs",
+                  "cloudflare-worker",
+                  "contract-first",
+                  "denojs",
+                  "next-js",
+                  "nodejs",
+                  "openapi",
+                  "openapi3",
+                  "pinia-vuejs",
+                  "react",
+                  "rpc-api",
+                  "solidjs",
+                  "svelte",
+                  "tanstack",
+                  "typesafe",
+                  "typescript",
+                  "vue"
+                ]
+              },
+              "first_seen": "2026-11-11T03:09:48.116Z"
             },
             {
               "node_type": "item",
@@ -2711,7 +2785,7 @@
                 "open_issues": 3,
                 "owner": "Savory",
                 "repo": "Danet",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "deno",
                   "dependency-injection",
@@ -2895,7 +2969,7 @@
                 "open_issues": 4,
                 "owner": "open-source-labs",
                 "repo": "obsidian",
-                "stars": 765,
+                "stars": 766,
                 "topics": [
                   "deno",
                   "graphql",
@@ -3274,10 +3348,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T10:11:32Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6684,
+            "stars": 6685,
             "topics": [
               "deno",
               "github",
@@ -3370,8 +3444,8 @@
             "id": 1138782336,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T00:59:28Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-11T03:00:04Z",
+            "open_issues": 27,
             "owner": "chobbledotcom",
             "repo": "tickets",
             "stars": 37,
@@ -3407,14 +3481,44 @@
             "id": 1021848617,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T04:03:09Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-10T11:16:38Z",
+            "open_issues": 0,
             "owner": "alexindigo",
             "repo": "globnotes",
             "stars": 7,
             "topics": []
           },
           "first_seen": "2026-11-06T03:43:08.844Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Medusa Edge API Gateway",
+          "description": "Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "⚡ High-performance, resilient Edge API Gateway & Caching Proxy for APILayer on Deno Deploy with Circuit Breaker, Single-Flight deduplication, and Deno KV.",
+            "homepage": "https://glastor.es",
+            "id": 1429579242,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-07T21:47:12Z",
+            "open_issues": 1,
+            "owner": "glastor-core",
+            "repo": "medusa",
+            "stars": 1,
+            "topics": [
+              "api-gateway",
+              "circuit-breaker",
+              "deno",
+              "distributed-systems",
+              "edge-computing",
+              "high-performance",
+              "resilience",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-11T03:09:48.116Z"
         },
         {
           "node_type": "item",
@@ -3541,7 +3645,7 @@
             "open_issues": 18,
             "owner": "denoland",
             "repo": "deno_docker",
-            "stars": 1015,
+            "stars": 1016,
             "topics": [
               "deno",
               "docker",
@@ -3700,8 +3804,8 @@
             "id": 610483663,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T18:30:38Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-10T23:13:07Z",
+            "open_issues": 16,
             "owner": "Hexagon",
             "repo": "pup",
             "stars": 197,
@@ -4016,6 +4120,43 @@
           "first_seen": "2026-08-28T07:07:05.684Z"
         },
         {
+          "node_type": "item",
+          "title": "nemesis",
+          "description": "Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "⚡ Automated DevSecOps auditing, repo hygiene, auto-fix & compliance CLI and GitHub Action built with Deno 2 & TypeScript.",
+            "homepage": "https://glastor.es",
+            "id": 1416278253,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-10T19:07:48Z",
+            "open_issues": 0,
+            "owner": "glastor-core",
+            "repo": "nemesis",
+            "stars": 1,
+            "topics": [
+              "compliance",
+              "cyclonedx",
+              "deno",
+              "deno2",
+              "dev",
+              "devsecops",
+              "github-actions",
+              "high-performance",
+              "sast",
+              "scorecard",
+              "security",
+              "security-audit",
+              "trivy",
+              "typescript",
+              "zero-trust"
+            ]
+          },
+          "first_seen": "2026-11-11T03:09:48.116Z"
+        },
+        {
           "node_type": "group",
           "title": "dvm",
           "description": null,
@@ -4036,7 +4177,7 @@
                 "open_issues": 0,
                 "owner": "justjavac",
                 "repo": "dvm",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "deno",
                   "dvm",
@@ -4132,7 +4273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:48:35.978Z",
+    "last_updated": "2026-11-11T03:09:48.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things related to Deno",
@@ -4140,8 +4281,8 @@
       "id": 163803160,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-05T09:18:17Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-10T08:30:52Z",
+      "open_issues": 2,
       "owner": "denolib",
       "repo": "awesome-deno",
       "stars": 4416,
@@ -4151,7 +4292,7 @@
         "deno"
       ]
     },
-    "original_repository_sha": "f8f89846ab8ac31e8f500e6299f74bdc69d5f3f9",
+    "original_repository_sha": "cabcf99b147a422601c0af474e3533f27420a0b9",
     "enhanced_repository": "enhansome/enhansome-deno",
     "enhanced_repository_description": null,
     "title": "Awesome Deno with stars"
