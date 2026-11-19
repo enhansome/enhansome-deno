@@ -72,7 +72,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 
-* [zuke](https://github.com/zuke-build/zuke) ⭐ 49 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-17 - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
+* [zuke](https://github.com/zuke-build/zuke) ⭐ 49 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-18 - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 * [swissknife](https://github.com/fakoua/SwissKnife) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2023-12-23 - SwissKnife - Deno Swiss Knife tools for Windows.
 
 ### CLI utils
@@ -88,7 +88,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 
-* [sigflint](https://github.com/bompus/sigflint) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-17 - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
+* [sigflint](https://github.com/bompus/sigflint) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 * [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 
 ### Database
@@ -100,7 +100,7 @@ This list is a collection of the best Deno modules and resources.
 * [redis](https://github.com/denodrivers/redis) ⭐ 463 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-16 - An experimental implementation of redis client for deno.
 * [deno\_mysql](https://github.com/denodrivers/mysql) ⭐ 264 | 🐛 22 | 🌐 TypeScript | 📅 2024-06-26 - MySQL database driver.
 * [aloedb](https://github.com/Kirlovon/aloedb) ⭐ 144 | 🐛 4 | 🌐 TypeScript | 📅 2024-07-30 - Light, Embeddable, NoSQL database for Deno without dependencies.
-* [dongoose](https://github.com/roonie007/dongoose) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2023-07-10 - A simple and easy to use ORM for Deno KV.
+* [dongoose](https://github.com/roonie007/dongoose) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2023-07-10 - A simple and easy to use ORM for Deno KV.
 * [maxminddb](https://github.com/josh-hemphill/maxminddb-wasm) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12 - A library that enables the usage of MaxmindDB geoIP database files
 * [yongo](https://github.com/yooneskh/yongo) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-08 - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 * [kvdock](https://github.com/zisam-glitch/kvdock) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-15 - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
@@ -112,7 +112,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Frontend framework
 
-* [fresh](https://github.com/freshframework/fresh) ⭐ 13,786 | 🐛 163 | 🌐 TypeScript | 📅 2026-10-17 - The next-gen web framework.
+* [fresh](https://github.com/freshframework/fresh) ⭐ 13,787 | 🐛 163 | 🌐 TypeScript | 📅 2026-10-17 - The next-gen web framework.
 * [ultra](https://github.com/exhibitionist-digital/ultra) ⭐ 2,943 | 🐛 28 | 🌐 TypeScript | 📅 2024-10-28 - 💎 Modern Streaming React Framework in Deno.
 * [packup](https://github.com/kt3k/packup) ⭐ 338 | 🐛 12 | 🌐 TypeScript | 📅 2024-06-02 - Zero-config web application packager for Deno.
 
@@ -123,7 +123,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 
-* [ImageScript](https://github.com/imagescript/ImageScript) ⭐ 685 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-15 - Image processing in JavaScript, utilizing WebAssembly for performance.
+* [ImageScript](https://github.com/imagescript/ImageScript) ⭐ 685 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - Image processing in JavaScript, utilizing WebAssembly for performance.
 * [monke](https://github.com/retraigo/monke) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-07-29 - Color quantization and dithering library with extra image filters (blur, invert, etc).
 * [kavel](https://github.com/hanshs474/kavel-ts) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - Generate and edit images with AI without an API key or account.
 * [aigifmaker](https://github.com/hanshs474/aigifmaker-ts) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Turn text prompts into animated GIFs with the AI GIF Maker API.
@@ -153,7 +153,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Static site generator
 
-* [lume](https://github.com/lumeland/lume) ⭐ 2,283 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-17 - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
+* [lume](https://github.com/lumeland/lume) ⭐ 2,283 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-18 - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
 * [pagic](https://github.com/xcatliu/pagic) ⭐ 1,652 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-19 - The easiest way to generate static html page from markdown, built with Deno.
 * [zerho](https://github.com/glastor-core/zerho) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
 
@@ -163,20 +163,20 @@ This list is a collection of the best Deno modules and resources.
 
 ### Social Platform APIs
 
-* [grammY](https://github.com/grammyjs/grammY) ⭐ 3,805 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-16 - Telegram Bot API framework for Deno.
-* [discordeno](https://github.com/discordeno/discordeno) ⭐ 943 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-15 - Discord API library for Deno
+* [grammY](https://github.com/grammyjs/grammY) ⭐ 3,806 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-16 - Telegram Bot API framework for Deno.
+* [discordeno](https://github.com/discordeno/discordeno) ⭐ 943 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-18 - Discord API library for Deno
 * [MTKruto](https://github.com/MTKruto/MTKruto) ⭐ 174 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 - Deno-first, cross-runtime client library for Telegram's MTProto API.
-* [Circe](https://github.com/sxnnyside-project/circe) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-17 - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
+* [Circe](https://github.com/sxnnyside-project/circe) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-18 - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
 
 ### Template engine
 
-* [eta](https://github.com/bgub/eta) ⭐ 1,768 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-14 - Fast, lightweight, and configurable embedded template engine.
+* [eta](https://github.com/bgub/eta) ⭐ 1,770 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-14 - Fast, lightweight, and configurable embedded template engine.
 * [dejs](https://github.com/syumai/dejs) ⭐ 146 | 🐛 4 | 🌐 TypeScript | 📅 2023-05-30 - Ejs template engine for deno.
 * [handlebars](https://github.com/alosaur/handlebars) ⭐ 32 | 🐛 4 | 🌐 TypeScript | 📅 2024-07-17 - Handlebars template engine for deno
 
 ### Testing
 
-* [keploy](https://github.com/keploy/keploy) ⭐ 19,881 | 🐛 867 | 🌐 Go | 📅 2026-11-18 - Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.
+* [keploy](https://github.com/keploy/keploy) ⭐ 19,885 | 🐛 871 | 🌐 Go | 📅 2026-11-19 - Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.
 * [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) ⭐ 457 | 🐛 43 | 🌐 TypeScript | 📅 2023-12-01 - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 * [unexpected](https://github.com/unexpectedjs/unexpected) ⭐ 367 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-14 - Extensible BDD assertion toolkit.
 * [superdeno](https://github.com/cmorten/superdeno) ⭐ 123 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-25 - Super-agent driven library for testing Deno HTTP servers.
@@ -185,7 +185,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Utils
 
-* [croner](https://github.com/Hexagon/croner) ⭐ 2,618 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+* [croner](https://github.com/Hexagon/croner) ⭐ 2,618 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17 - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 * [fastest-validator](https://github.com/icebob/fastest-validator) ⭐ 1,464 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-20 - Schema validator for all javascript platforms
 * [denon](https://github.com/denosaurs/denon) ⭐ 1,105 | 🐛 27 | 🌐 TypeScript | 📅 2024-03-21 - A file watcher with a for-await generator.
 * [evt](https://github.com/garronej/evt) ⭐ 461 | 🐛 8 | 🌐 TypeScript | 📅 2025-10-01 - Type safe replacement for EventEmitter.
@@ -214,13 +214,13 @@ This list is a collection of the best Deno modules and resources.
 
 ### Validation
 
-* [zod](https://github.com/colinhacks/zod) ⭐ 44,343 | 🐛 128 | 🌐 TypeScript | 📅 2026-11-16 - TypeScript-first schema validation with static type inference.
-* [is-kit](https://github.com/necoz-oss/is-kit) ⭐ 196 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-17 - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
+* [zod](https://github.com/colinhacks/zod) ⭐ 44,349 | 🐛 128 | 🌐 TypeScript | 📅 2026-11-18 - TypeScript-first schema validation with static type inference.
+* [is-kit](https://github.com/necoz-oss/is-kit) ⭐ 200 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-18 - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 
 ### Web framework
 
-* [hono](https://github.com/honojs/hono) ⭐ 32,970 | 🐛 373 | 🌐 TypeScript | 📅 2026-11-16 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [orpc](https://github.com/middleapi/orpc) ⭐ 5,769 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-18 - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
+* [hono](https://github.com/honojs/hono) ⭐ 32,979 | 🐛 372 | 🌐 TypeScript | 📅 2026-11-19 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [orpc](https://github.com/middleapi/orpc) ⭐ 5,771 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-19 - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
 * [drash](https://github.com/drashland/drash) ⭐ 1,064 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-24 - A REST microframework for Deno's HTTP server with zero dependencies.
 * [opine](https://github.com/cmorten/opine) ⭐ 847 | 🐛 2 | 🌐 TypeScript | 📅 2024-01-28 - Fast, minimalist web framework ported from ExpressJS.
   * [opine-http-proxy](https://github.com/cmorten/opine-http-proxy) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-15 - Proxy middleware for Deno Opine HTTP servers.
@@ -245,7 +245,7 @@ This list is a collection of the best Deno modules and resources.
 * [gentleRpc](https://github.com/timonson/gentle_rpc) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2024-05-18 - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 * [ts-prometheus](https://github.com/marcopacini/ts_prometheus) ⭐ 32 | 🐛 1 | 🌐 TypeScript | 📅 2023-11-14 - A prometheus client.
 * [rpc](https://github.com/deno-libs/rpc) ⭐ 23 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-06 - JSONRPC server implementation for Deno.
-* [linkpeek](https://github.com/thegruber/linkpeek) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
+* [linkpeek](https://github.com/thegruber/linkpeek) ⭐ 19 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
 * [forwarded](https://github.com/deno-libs/forwarded) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-26 - Deno port of `forwarded` library.
 * [graphql-tag](https://github.com/deno-libs/graphql_tag) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-07 - GraphQL schema AST from template literal.
 
@@ -267,9 +267,9 @@ This list is a collection of the best Deno modules and resources.
 * [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) ⭐ 6,685 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-27 - 🏆 Add dynamically generated GitHub Trophy on your readme
 * [Edrys](https://github.com/edrys-org/edrys) ⭐ 334 | 🐛 8 | 🌐 Vue | 📅 2024-08-12 - Remote Teaching Software
 * [Deno Rest](https://github.com/Prolifode/deno_rest) ⭐ 163 | 🐛 3 | 🌐 TypeScript | 📅 2025-02-09 - A Boilerplate for deno RESTful apis.
-* [Chobble Tickets](https://github.com/chobbledotcom/tickets) ⭐ 37 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-18 - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
-* [globnotes](https://github.com/alexindigo/globnotes) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
-* [Medusa Edge API Gateway](https://github.com/glastor-core/medusa) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
+* [Chobble Tickets](https://github.com/chobbledotcom/tickets) ⭐ 37 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-19 - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
+* [globnotes](https://github.com/alexindigo/globnotes) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
+* [Medusa Edge API Gateway](https://github.com/glastor-core/medusa) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
 * [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-01 - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 * [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 
@@ -296,7 +296,7 @@ This list is a collection of the best Deno modules and resources.
 * [clone](https://github.com/ekaragodin/clone) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - A simple utility for the convenient clone.
 * [CompatLab](https://github.com/siddiksawani/CompatLab) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 - Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.
 * [entype](https://github.com/bcheidemann/entype) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-23 - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
-* [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/deno) ⭐ 3 | 🐛 1 | 🌐 Shell | 📅 2026-11-17 - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/src/deno) ⭐ 3 | 🐛 1 | 🌐 Shell | 📅 2026-11-18.
+* [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/deno) ⭐ 3 | 🐛 1 | 🌐 Shell | 📅 2026-11-17 - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/src/deno) ⭐ 3 | 🐛 3 | 🌐 Shell | 📅 2026-11-19.
 * [Deno Dig](https://github.com/theGEBIRGE/DenoDig) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-10-29 - A tool for extracting application code and npm packages from stand-alone Deno executables.
 * [nemesis](https://github.com/glastor-core/nemesis) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.
 * [denopendabot](https://github.com/apps/denopendabot) - Dependabot for Deno projects.
@@ -420,4 +420,4 @@ This list is a collection of the best Deno modules and resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
